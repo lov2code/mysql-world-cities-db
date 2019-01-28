@@ -1,0 +1,110 @@
+CREATE TABLE IF NOT EXISTS next_destinations(
+   city              VARCHAR(10) NOT NULL
+  ,lat               NUMERIC(9,6) NOT NULL
+  ,lng               NUMERIC(9,6) NOT NULL
+  ,country           VARCHAR(10) NOT NULL
+  ,iso2              VARCHAR(2) NOT NULL
+  ,auser             VARCHAR(10) NOT NULL
+  ,capital           VARCHAR(7)
+  ,population        INTEGER 
+  ,population_proper INTEGER 
+);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Copenhagen',55.666667,12.583333,'Denmark','DK','Hovedstaden','primary',1085000,1085000);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Aarhus',56.153423,10.22553,'Denmark','DK','Midtjylland','minor',237551,227100);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Odense',55.393475,10.394935,'Denmark','DK','Syddanmark','minor',158222,145931);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Skalborg',57.001634,9.887863,'Denmark','DK','Nordjylland',NULL,122219,101616);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Esbjerg',55.470276,8.451869,'Denmark','DK','Syddanmark','minor',72205,63947);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Vejle',55.708391,9.542763,'Denmark','DK','Syddanmark','admin',51177,51177);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Roskilde',55.640094,12.08054,'Denmark','DK','Sjælland','minor',44285,40284);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Viborg',56.45282,9.404291,'Denmark','DK','Midtjylland','admin',34831,31057);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Svendborg',55.058732,10.591346,'Denmark','DK','Syddanmark','minor',29180,27553);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Hillerød',55.933333,12.316667,'Denmark','DK','Hovedstaden','admin',28313,28313);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Frederikshavn',57.443803,10.547177,'Denmark','DK','Nordjylland','minor',24103,20667);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Borød',55.426544,11.520624,'Denmark','DK','Sjælland',NULL,7167,7167);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Nyborg',55.305846,10.803394,'Denmark','DK','Syddanmark','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Hvidovre',55.650261,12.475765,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Horsens',55.865675,9.873531,'Denmark','DK','Midtjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Kastrup',55.635239,12.648948,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Ærøskøbing',54.891207,10.408323,'Denmark','DK','Syddanmark','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Hobro',56.638115,9.795317,'Denmark','DK','Nordjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Haderslev',55.252434,9.489315,'Denmark','DK','Syddanmark','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Højby',55.911478,11.597559,'Denmark','DK','Sjælland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Dragør',55.594566,12.668952,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Lemvig',56.533333,8.3,'Denmark','DK','Midtjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Nykøbing Falster',54.7655,11.875085,'Denmark','DK','Sjælland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Nykøbing Mors',56.791688,8.849895,'Denmark','DK','Nordjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Sorø',55.438715,11.560856,'Denmark','DK','Sjælland','admin',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Kolding',55.492944,9.468121,'Denmark','DK','Syddanmark','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Hjørring',57.466323,9.988917,'Denmark','DK','Nordjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Søborg',55.730207,12.509814,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Aalborg',57.035498,9.941163,'Denmark','DK','Nordjylland','admin',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Kokkedal',55.909781,12.515245,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Sønderborg',54.910634,9.792843,'Denmark','DK','Syddanmark','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Albertslund',55.662279,12.335117,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Randers',56.460704,10.03639,'Denmark','DK','Midtjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Solrød Strand',55.536396,12.225235,'Denmark','DK','Sjælland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Vejen',55.48117,9.137948,'Denmark','DK','Syddanmark','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Ringe',55.245059,10.470646,'Denmark','DK','Syddanmark','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Herlev',55.72352,12.440376,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Odder',55.977212,10.168293,'Denmark','DK','Midtjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Næstved',55.224898,11.784213,'Denmark','DK','Sjælland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Kongens Lyngby',55.771785,12.505991,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Helsinge',56.019659,12.198974,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Skanderborg',56.031296,9.931704,'Denmark','DK','Midtjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Rødovre',55.682718,12.464367,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Frederiksberg',55.678467,12.522092,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Helsingør',56.029377,12.586267,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Allerød',55.870347,12.357372,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Skive',56.563814,9.040245,'Denmark','DK','Midtjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Glostrup',55.666597,12.403768,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Ishøj',55.618404,12.328128,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Brøndby',55.654093,12.421463,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Frederikssund',55.838923,12.067612,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Holbæk',55.713537,11.716903,'Denmark','DK','Sjælland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Rudkøbing',54.937994,10.721368,'Denmark','DK','Syddanmark','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Kirke Hvalsø',55.59575,11.861583,'Denmark','DK','Sjælland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Tønder',54.943118,8.869335,'Denmark','DK','Syddanmark','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Haslev',55.317917,11.974003,'Denmark','DK','Sjælland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Holte',55.816667,12.466667,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Ikast',56.136747,9.160023,'Denmark','DK','Midtjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Taastrup',55.647521,12.312019,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Rønde',56.301453,10.475055,'Denmark','DK','Midtjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Rønne',55.100907,14.706636,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Støvring',56.890869,9.830965,'Denmark','DK','Nordjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Vallensbæk Strand',55.613932,12.389539,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Bogense',55.565192,10.092923,'Denmark','DK','Syddanmark','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Vordingborg',55.01044,11.903918,'Denmark','DK','Sjælland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Tranebjerg',55.832599,10.597231,'Denmark','DK','Midtjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Slagelse',55.402719,11.354142,'Denmark','DK','Sjælland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Aabybro',57.15,9.75,'Denmark','DK','Nordjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Aabenraa',55.036217,9.417999,'Denmark','DK','Syddanmark','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Varde',55.62157,8.48073,'Denmark','DK','Syddanmark','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Ringsted',55.441121,11.809437,'Denmark','DK','Sjælland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Byrum',57.256789,10.99738,'Denmark','DK','Nordjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Ballerup',55.719777,12.352019,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Aars',56.803809,9.515814,'Denmark','DK','Nordjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Ringkøbing',56.08642,8.248684,'Denmark','DK','Midtjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Hinnerup',56.266078,10.062993,'Denmark','DK','Midtjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Kerteminde',55.450484,10.658433,'Denmark','DK','Syddanmark','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Farum',55.809873,12.362286,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Greve',55.596631,12.249199,'Denmark','DK','Sjælland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Herning',56.133333,8.983333,'Denmark','DK','Midtjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Struer',56.486241,8.60442,'Denmark','DK','Midtjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Grindsted',55.754,8.912307,'Denmark','DK','Syddanmark','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Grenaa',56.41285,10.895649,'Denmark','DK','Midtjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Fredericia',55.575781,9.761693,'Denmark','DK','Syddanmark','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Store Heddinge',55.309962,12.389795,'Denmark','DK','Sjælland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Hørsholm',55.88098,12.501106,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Assens',55.271213,9.905333,'Denmark','DK','Syddanmark','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Maribo',54.775198,11.502437,'Denmark','DK','Sjælland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Køge',55.460008,12.183415,'Denmark','DK','Sjælland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Frederiksværk',55.967671,12.021482,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Stenløse',55.767676,12.196011,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Thisted',56.958788,8.696409,'Denmark','DK','Nordjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Kalundborg',55.681984,11.100426,'Denmark','DK','Sjælland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Holstebro',56.359471,8.620799,'Denmark','DK','Midtjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Charlottenlund',55.753674,12.591811,'Denmark','DK','Hovedstaden','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Brønderslev',57.265112,9.959859,'Denmark','DK','Nordjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Silkeborg',56.170146,9.565162,'Denmark','DK','Midtjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Hedensted',55.770131,9.696694,'Denmark','DK','Midtjylland','minor',NULL,NULL);
+INSERT INTO next_destinations(city,lat,lng,country,iso2,auser,capital,population,population_proper) VALUES ('Middelfart',55.499223,9.744498,'Denmark','DK','Syddanmark','minor',NULL,NULL);
