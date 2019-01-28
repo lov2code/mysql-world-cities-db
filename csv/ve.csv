@@ -1,0 +1,52 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Nueva Caracas,10.503334,-66.938238,Venezuela,VE,Distrito Capital,,2985000,1815679
+Maracaibo,10.666633,-71.612447,Venezuela,VE,Zulia,admin,2072000,1457300
+Valencia,10.162022,-68.007648,Venezuela,VE,Carabobo,admin,1770000,1369053
+Barquisimeto,10.073889,-69.322778,Venezuela,VE,Lara,admin,1116000,809490
+Maracay,10.23535,-67.591128,Venezuela,VE,Aragua,admin,1007000,1007000
+Ciudad Guayana,8.351225,-62.641023,Venezuela,VE,Bolívar,,746535,522100
+Barcelona,10.136248,-64.686175,Venezuela,VE,Anzoátegui,admin,600954,121906
+Cabimas,10.388281,-71.439925,Venezuela,VE,Zulia,,441094,200818
+San Cristóbal,7.766944,-72.225,Venezuela,VE,Táchira,admin,438798,246583
+Maturín,9.746127,-63.170332,Venezuela,VE,Monagas,admin,410972,304443
+Ciudad Bolívar,8.129234,-63.540855,Venezuela,VE,Bolívar,admin,338000,297943
+Cumaná,10.46354,-64.177501,Venezuela,VE,Sucre,admin,317603,257783
+Maiquetía,10.596206,-66.954847,Venezuela,VE,Vargas,,315442,52564
+Los Teques,10.344473,-67.043247,Venezuela,VE,Miranda,admin,303470,303470
+Alto Barinas,8.593105,-70.226104,Venezuela,VE,Barinas,,284289,238522
+Acarigua,9.554514,-69.195639,Venezuela,VE,Portuguesa,,260921,143704
+Punto Fijo,11.695598,-70.199574,Venezuela,VE,Falcón,,234736,131784
+El Tigre,8.887515,-64.245439,Venezuela,VE,Anzoátegui,,197440,150999
+Porlamar,10.957964,-63.849059,Venezuela,VE,Nueva Esparta,,196934,87120
+Coro,11.404501,-69.673444,Venezuela,VE,Falcón,admin,195227,172969
+Valera,9.317778,-70.603611,Venezuela,VE,Trujillo,,191167,93756
+Ocumare del Tuy,10.116486,-66.776092,Venezuela,VE,Miranda,,166072,95576
+Guanare,9.041826,-69.742056,Venezuela,VE,Portuguesa,admin,151642,112286
+Carora,10.175544,-70.082745,Venezuela,VE,Lara,,149711,93788
+Carúpano Arriba,10.646559,-63.215818,Venezuela,VE,Sucre,,126293,112082
+San Fernando,7.887816,-67.472362,Venezuela,VE,Apure,admin,122701,78779
+Anaco,9.426935,-64.474983,Venezuela,VE,Anzoátegui,,117596,82640
+Calabozo,8.924162,-67.429286,Venezuela,VE,Guárico,,117132,104682
+San Carlos del Zulia,9.000029,-71.913515,Venezuela,VE,Zulia,,97288,56582
+Valle de La Pascua,9.215538,-66.007339,Venezuela,VE,Guárico,,89080,83467
+San Juan de los Morros,9.911523,-67.35381,Venezuela,VE,Guárico,admin,87739,87739
+San Carlos,9.661241,-68.582683,Venezuela,VE,Cojedes,admin,77192,77192
+San Felipe,10.339914,-68.742469,Venezuela,VE,Yaracuy,admin,76766,76766
+Machiques,10.064444,-72.545,Venezuela,VE,Zulia,,62968,26905
+Upata,8.008611,-62.398889,Venezuela,VE,Bolívar,,53685,53264
+Puerto Ayacucho,5.65,-67.5975,Venezuela,VE,Amazonas,admin,52526,50719
+Tucupita,9.058056,-62.05,Venezuela,VE,Delta Amacuro,admin,51534,47874
+Trujillo,9.365833,-70.436944,Venezuela,VE,Trujillo,admin,50353,38110
+Zaraza,9.350286,-65.324519,Venezuela,VE,Guárico,,41483,29076
+Altagracia de Orituco,9.860048,-66.381389,Venezuela,VE,Guárico,,40052,28802
+La Asunción,11.032831,-63.86353,Venezuela,VE,Nueva Esparta,admin,35084,35084
+Santa Rita,10.538056,-71.516944,Venezuela,VE,Zulia,,31810,10380
+Guasdalito,7.242408,-70.732355,Venezuela,VE,Apure,,30860,25715
+Chaguarama,9.215556,-63.752222,Venezuela,VE,Anzoátegui,,15000,10000
+El Dorado,6.733333,-61.633333,Venezuela,VE,Bolívar,,2383,2383
+El Manteco,7.349921,-62.541115,Venezuela,VE,Bolívar,,2215,2215
+Esmeralda,3.166667,-65.55,Venezuela,VE,Amazonas,,150,149
+La Guaira,10.600402,-66.93002,Venezuela,VE,Vargas,admin,,
+Barinas,8.622609,-70.20749,Venezuela,VE,Barinas,admin,,
+Caracas,10.488011,-66.879193,Venezuela,VE,Distrito Capital,primary,,
+Mérida,8.589722,-71.156111,Venezuela,VE,Mérida,admin,,

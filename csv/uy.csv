@@ -1,0 +1,33 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Montevideo,-34.858056,-56.170833,Uruguay,UY,Montevideo,primary,1513000,5324
+Rivera,-30.901389,-55.543333,Uruguay,UY,Rivera,admin,200000,64465
+Punta del Este,-34.947473,-54.933818,Uruguay,UY,Maldonado,,159000,9280
+Salto,-31.383333,-57.966667,Uruguay,UY,Salto,admin,105690,99823
+Paysandú,-32.321389,-58.075556,Uruguay,UY,Paysandú,admin,79016,73249
+Melo,-32.370278,-54.1675,Uruguay,UY,Cerro Largo,admin,55494,51023
+Maldonado,-34.9,-54.95,Uruguay,UY,Maldonado,admin,55478,48277
+Tacuarembó,-31.716944,-55.981111,Uruguay,UY,Tacuarembó,admin,54277,51854
+Mercedes,-33.2525,-58.029167,Uruguay,UY,Soriano,admin,42359,41544
+Artigas,-30.4,-56.466667,Uruguay,UY,Artigas,admin,41909,22236
+Minas,-34.374167,-55.236111,Uruguay,UY,Lavalleja,admin,41180,38025
+San José,-34.3375,-56.713611,Uruguay,UY,San José,admin,36529,36395
+Durazno,-33.380556,-56.523611,Uruguay,UY,Durazno,admin,34037,33926
+Florida,-34.095556,-56.214167,Uruguay,UY,Florida,admin,32234,32234
+Treinta y Tres,-33.233333,-54.383333,Uruguay,UY,Treinta y Tres,admin,27684,25653
+Rocha,-34.483333,-54.333333,Uruguay,UY,Rocha,admin,26874,25515
+Fray Bentos,-33.121944,-58.303056,Uruguay,UY,Río Negro,admin,23279,23279
+Bella Unión,-30.259663,-57.599187,Uruguay,UY,Artigas,,22723,13171
+Colonia del Sacramento,-34.454975,-57.841174,Uruguay,UY,Colonia,admin,21714,21714
+Trinidad,-33.516944,-56.898056,Uruguay,UY,Flores,admin,21093,21093
+Canelones,-34.522778,-56.277778,Uruguay,UY,Canelones,admin,19698,19698
+Carmelo,-33.992779,-58.284352,Uruguay,UY,Colonia,,16921,13306
+Santa Lucía,-34.453333,-56.390556,Uruguay,UY,Canelones,,16438,14091
+Paso de los Toros,-32.816667,-56.516667,Uruguay,UY,Durazno,,13221,9679
+Castillos,-34.199162,-53.856995,Uruguay,UY,Rocha,,7686,7686
+Tranqueras,-31.2,-55.75,Uruguay,UY,Rivera,,7474,2077
+Lascano,-33.672354,-54.206499,Uruguay,UY,Rocha,,6976,3455
+Vergara,-32.933333,-53.95,Uruguay,UY,Treinta y Tres,,3998,3500
+La Paloma,-34.660118,-54.16811,Uruguay,UY,Rocha,,3230,2564
+Aiguá,-34.204984,-54.756646,Uruguay,UY,Maldonado,,2692,2552
+Baltasar Brum,-30.719048,-57.325961,Uruguay,UY,Artigas,,2517,2347
+José Batlle y Ordóñez,-33.466667,-55.116667,Uruguay,UY,Lavalleja,,2438,2438
