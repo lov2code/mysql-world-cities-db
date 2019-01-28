@@ -1,0 +1,35 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Dublin,53.333056,-6.248889,Ireland,IE,Dublin,primary,1059000,968976
+Cork,51.898611,-8.495833,Ireland,IE,Cork,admin,188907,136797
+Limerick,52.664722,-8.623056,Ireland,IE,Limerick,admin,90054,78078
+Galway,53.271944,-9.048889,Ireland,IE,Galway,admin,75594,70686
+Waterford,52.258333,-7.111944,Ireland,IE,Waterford,admin,49275,49275
+Drogheda,53.718889,-6.347778,Ireland,IE,Louth,,36533,33441
+Tralee,52.266667,-9.716667,Ireland,IE,Kerry,admin,26384,22941
+Kilkenny,52.654167,-7.252222,Ireland,IE,Kilkenny,admin,21589,21213
+Sligo,54.266667,-8.483333,Ireland,IE,Sligo,admin,20228,14200
+Killarney,52.05,-9.516667,Ireland,IE,Kerry,,11902,7300
+Shannon,52.703889,-8.864167,Ireland,IE,Clare,,8781,7506
+Monaghan,54.25,-6.966667,Ireland,IE,Monaghan,,5937,5937
+Ros Comáin,53.633333,-8.183333,Ireland,IE,Roscommon,admin,4860,4860
+Donegal,54.65,-8.116667,Ireland,IE,Donegal,,2513,1945
+Lifford,54.831944,-7.483611,Ireland,IE,Donegal,admin,,
+Carlow,52.840833,-6.926111,Ireland,IE,Carlow,admin,,
+Mullingar,53.533333,-7.35,Ireland,IE,Westmeath,admin,,
+An Cabhán,53.990833,-7.360556,Ireland,IE,Cavan,admin,,
+Wicklow,52.975,-6.049444,Ireland,IE,Wicklow,admin,,
+Dún Dealgan,54.0,-6.416667,Ireland,IE,Louth,admin,,
+Clonmel,52.355,-7.703889,Ireland,IE,Tipperary,admin,,
+Naas,53.215833,-6.666944,Ireland,IE,Kildare,admin,,
+Ennis,52.843611,-8.986389,Ireland,IE,Clare,admin,,
+Port Laoise,53.032222,-7.3,Ireland,IE,Laois,admin,,
+Swords,53.459722,-6.218056,Ireland,IE,Fingal,admin,,
+Tallaght,53.287778,-6.341111,Ireland,IE,South Dublin,admin,,
+Wexford,52.334167,-6.4575,Ireland,IE,Wexford,admin,,
+Trim,53.555,-6.791667,Ireland,IE,Meath,admin,,
+Tullamore,53.273889,-7.488889,Ireland,IE,Offaly,admin,,
+Castlebar,53.85,-9.3,Ireland,IE,Mayo,admin,,
+Nenagh,52.861944,-8.196667,Ireland,IE,Tipperary,admin,,
+Dunleary,53.2925,-6.128611,Ireland,IE,Dún Laoghaire-Rathdown,admin,,
+Longford,53.733333,-7.8,Ireland,IE,Longford,admin,,
+Carrick on Shannon,53.946944,-8.09,Ireland,IE,Leitrim,admin,,

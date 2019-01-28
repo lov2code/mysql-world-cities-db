@@ -1,0 +1,39 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Nyaunggon,16.747275,96.160819,Burma,MM,Yangon,,4088000,3301820
+Mandalay,21.969673,96.087381,Burma,MM,Mandalay,admin,1300000,1034000
+Nay Pyi Taw,19.745,96.129722,Burma,MM,Nay Pyi Taw,primary,930000,194824
+Mawlamyine,16.490514,97.628248,Burma,MM,Mon State,admin,438861,361637
+Bago,17.335214,96.481351,Burma,MM,Bago,admin,284318,244376
+Myeik,12.439537,98.60028,Burma,MM,Taninthayi,,266720,173298
+Pathein,16.779188,94.732123,Burma,MM,Ayeyawady,admin,237089,194940
+Monywa,22.108561,95.135834,Burma,MM,Sagaing,,226222,182011
+Hinthada,17.649436,95.457055,Burma,MM,Ayeyawady,,180728,134947
+Sittwe,20.146241,92.898346,Burma,MM,Rakhine State,admin,179032,177743
+Letpandan,17.786642,95.750756,Burma,MM,Bago,,176571,38936
+Myingyan,21.460024,95.388403,Burma,MM,Mandalay,,163812,141713
+Taunggyi,20.789188,97.037755,Burma,MM,Shan State,admin,160115,160115
+Mudon,16.256239,97.724598,Burma,MM,Mon State,,152300,89123
+Dawei,14.073749,98.194231,Burma,MM,Taninthayi,admin,146212,136783
+Myitkyina,25.386411,97.394394,Burma,MM,Kachin State,admin,139100,90894
+Pyay,18.824643,95.222159,Burma,MM,Bago,,135308,114359
+Pakokku,21.334886,95.084381,Burma,MM,Magway,,126938,123773
+Magway,20.149557,94.932464,Burma,MM,Magway,admin,125973,96954
+Yenangyaung,20.465035,94.871196,Burma,MM,Magway,,110553,98462
+Taungoo,18.942907,96.434085,Burma,MM,Bago,,106945,104236
+Chauk,20.899214,94.817835,Burma,MM,Magway,,90870,79163
+Shwebo,22.569253,95.69818,Burma,MM,Sagaing,,88914,74603
+Sagaing,21.879351,95.983889,Burma,MM,Sagaing,admin,78739,78739
+Pyapon,16.285428,95.678819,Burma,MM,Ayeyawady,,65601,60753
+Allanmyo,19.373256,95.213013,Burma,MM,Magway,,57897,38996
+Chaungwa,16.722404,96.529502,Burma,MM,Yangon,,52496,19489
+Ye,15.246454,97.855058,Burma,MM,Mon State,,50798,50798
+Hpa-an,16.889533,97.634823,Burma,MM,Kayin State,admin,50000,50000
+Namtu,23.076611,97.403365,Burma,MM,Shan State,,48591,48591
+Wakema,16.603332,95.182782,Burma,MM,Ayeyawady,,48405,42705
+Pyu,18.481303,96.437415,Burma,MM,Bago,,40386,34918
+Nyaungdon,17.04459,95.639573,Burma,MM,Ayeyawady,,36172,36172
+Haka,22.644517,93.610762,Burma,MM,Chin State,admin,20000,20000
+Loikaw,19.677977,97.209754,Burma,MM,Kayah State,admin,17293,17293
+Kyaukpyu,19.427929,93.551338,Burma,MM,Rakhine State,,4261,4261
+Labutta,16.14948,94.758978,Burma,MM,Ayeyawady,,1667,1667
+Rangoon,16.805278,96.156111,Burma,MM,Yangon,primary,,

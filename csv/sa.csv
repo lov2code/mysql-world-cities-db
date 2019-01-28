@@ -1,0 +1,32 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Riyadh,24.653837,46.715683,Saudi Arabia,SA,Ar Riyāḑ,primary,4465000,4205961
+Jeddah,21.542381,39.197969,Saudi Arabia,SA,Makkah al Mukarramah,,3012000,2867446
+Ad Dammām,26.434417,50.103263,Saudi Arabia,SA,Ash Sharqīyah,admin,2054710,768602
+Medina,24.468611,39.614167,Saudi Arabia,SA,Al Madīnah al Munawwarah,admin,1010000,1010000
+Aţ Ţā’if,21.270278,40.415833,Saudi Arabia,SA,Makkah al Mukarramah,,657282,530848
+Al Hufūf,25.364568,49.565323,Saudi Arabia,SA,Ash Sharqīyah,,637389,400000
+Al Ḩillah,23.489454,46.853024,Saudi Arabia,SA,Ar Riyāḑ,,594605,594605
+Tabūk,28.399804,36.571505,Saudi Arabia,SA,Tabūk,admin,547957,455450
+Buraydah,26.325986,43.974966,Saudi Arabia,SA,Al Qaşīm,admin,398581,391336
+Ḩā’il,27.521876,41.690732,Saudi Arabia,SA,Ḩā’il,admin,385257,385257
+Najrān,17.493259,44.127659,Saudi Arabia,SA,Najrān,admin,369609,258573
+Al Qaţīf,26.520799,50.024518,Saudi Arabia,SA,Ash Sharqīyah,,368892,98259
+Al Mubarraz,25.41,49.580833,Saudi Arabia,SA,Ash Sharqīyah,,298562,290802
+Al Kharj,24.155406,47.334567,Saudi Arabia,SA,Ar Riyāḑ,,298428,298428
+Yanbu‘ al Baḩr,24.089119,38.063742,Saudi Arabia,SA,Al Madīnah al Munawwarah,,267590,200161
+Ḩafar al Bāţin,28.432791,45.970766,Saudi Arabia,SA,Ash Sharqīyah,,249194,249194
+Al Jubayl,27.011222,49.658255,Saudi Arabia,SA,Ash Sharqīyah,,237274,233200
+‘Ar‘ar,30.97531,41.038079,Saudi Arabia,SA,Al Ḩudūd ash Shamālīyah,admin,222016,148540
+Abhā,18.216389,42.505278,Saudi Arabia,SA,‘Asīr,admin,210886,204719
+Jāzān,16.889167,42.551111,Saudi Arabia,SA,Jāzān,admin,105198,95596
+Dhahran,26.303239,50.135284,Saudi Arabia,SA,Ash Sharqīyah,,97446,11300
+Qal‘at Bīshah,20.000538,42.605203,Saudi Arabia,SA,,,88291,81828
+Rafḩā,29.634248,43.519408,Saudi Arabia,SA,Al Ḩudūd ash Shamālīyah,,64755,64755
+Al Wajh,26.245513,36.452485,Saudi Arabia,SA,Tabūk,,43237,26636
+As Sulayyil,20.460669,45.577916,Saudi Arabia,SA,Ar Riyāḑ,,24097,17620
+Dawmat al Jandal,29.808148,39.869616,Saudi Arabia,SA,Al Jawf,,22583,22583
+Al Quway‘īyah,24.052908,45.261472,Saudi Arabia,SA,Ar Riyāḑ,,8712,8712
+Al Qunfudhah,19.126389,41.078889,Saudi Arabia,SA,,,157,157
+Sakākā,29.969742,40.206414,Saudi Arabia,SA,Al Jawf,admin,,
+Mecca,21.42664,39.825632,Saudi Arabia,SA,Makkah al Mukarramah,admin,,
+Al Bāḩah,20.012883,41.467671,Saudi Arabia,SA,Al Bāḩah,admin,,

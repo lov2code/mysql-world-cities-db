@@ -1,0 +1,61 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Dar es Salaam,-6.8,39.283333,Tanzania,TZ,,primary,2930000,2698652
+Moshi,-3.35,37.333333,Tanzania,TZ,Kilimanjaro,admin,721018,206728
+Mwanza,-2.516667,32.9,Tanzania,TZ,Mwanza,admin,493944,436801
+Zanzibar,-6.166667,39.183333,Tanzania,TZ,Zanzibar Urban/West,admin,403658,373220
+Arusha,-3.366667,36.683333,Tanzania,TZ,Arusha,admin,341136,320074
+Mbeya,-8.9,33.45,Tanzania,TZ,Mbeya,admin,291649,232062
+Morogoro,-6.816667,37.666667,Tanzania,TZ,Morogoro,admin,250902,234535
+Tanga,-5.066667,39.1,Tanzania,TZ,Tanga,admin,224876,209435
+Dodoma,-6.183333,35.75,Tanzania,TZ,,primary,218269,180541
+Kigoma,-4.876944,29.626667,Tanzania,TZ,Kigoma,admin,164268,164268
+Tabora,-5.016667,32.8,Tanzania,TZ,Tabora,admin,146495,145292
+Musoma,-1.5,33.8,Tanzania,TZ,Mara,admin,133156,121119
+Tukuyu,-9.25,33.65,Tanzania,TZ,Mbeya,,127570,28398
+Songea,-10.683333,35.65,Tanzania,TZ,Ruvuma,admin,126449,115397
+Iringa,-7.766667,35.7,Tanzania,TZ,Iringa,admin,111820,94760
+Shinyanga,-3.666667,33.433333,Tanzania,TZ,Shinyanga,admin,107362,80226
+Bukoba,-1.331667,31.812222,Tanzania,TZ,Kagera,admin,100504,70628
+Mtwara,-10.266667,40.183333,Tanzania,TZ,Mtwara,admin,96602,86746
+Kilosa,-6.833333,36.983333,Tanzania,TZ,Morogoro,,91889,13227
+Sumbawanga,-7.966667,31.616667,Tanzania,TZ,Rukwa,admin,89161,63932
+Bagamoyo,-6.433333,38.9,Tanzania,TZ,Coast,,82426,793
+Uvinza,-5.103611,30.391111,Tanzania,TZ,Kigoma,,80350,24650
+Mpanda,-6.365464,31.040911,Tanzania,TZ,Katavi,,73338,73338
+Singida,-4.816667,34.75,Tanzania,TZ,Singida,admin,62432,33067
+Korogwe,-5.15,38.483333,Tanzania,TZ,Tanga,,50000,44000
+Chake Chake,-5.25,39.766667,Tanzania,TZ,Pemba South,admin,49959,21686
+Ifakara,-8.133333,36.683333,Tanzania,TZ,Morogoro,,49528,6331
+Njombe,-9.333333,34.766667,Tanzania,TZ,Njombe,,46724,37311
+Lindi,-10.0,39.716667,Tanzania,TZ,Lindi,admin,41912,13995
+Kasulu,-4.576667,30.1025,Tanzania,TZ,Kigoma,,37349,25088
+Tunduma,-9.3,32.766667,Tanzania,TZ,Mbeya,,36556,18530
+Masasi,-10.716667,38.8,Tanzania,TZ,Mtwara,,36032,27067
+Kahama,-3.833333,32.6,Tanzania,TZ,Shinyanga,,36014,34544
+Babati,-4.216667,35.75,Tanzania,TZ,Manyara,admin,34291,3943
+Biharamulo,-2.631944,31.308889,Tanzania,TZ,Kagera,,34038,9597
+Kibiti,-7.721785,38.937491,Tanzania,TZ,Coast,,30163,943
+Sikonge,-5.633333,32.766667,Tanzania,TZ,Tabora,,27113,1986
+Nzega,-4.216667,33.183333,Tanzania,TZ,Tabora,,26584,10066
+Wete,-5.066667,39.716667,Tanzania,TZ,Pemba North,admin,26450,26450
+Kakonko,-3.282778,30.964167,Tanzania,TZ,Kigoma,,24688,7950
+Kibaha,-6.766667,38.916667,Tanzania,TZ,Coast,admin,23651,23651
+Mpwapwa,-6.35,36.483333,Tanzania,TZ,Dodoma,,19806,381
+Itigi,-5.7,34.483333,Tanzania,TZ,Singida,,19711,3357
+Same,-4.066667,37.733333,Tanzania,TZ,Kilimanjaro,,17455,2081
+Ngara,-2.512222,30.655833,Tanzania,TZ,Kagera,,16890,4598
+Mikumi,-7.40409,36.983093,Tanzania,TZ,Morogoro,,16780,8162
+Karema,-6.820516,30.438866,Tanzania,TZ,Katavi,,16385,12630
+Nyahanga,-2.383333,33.55,Tanzania,TZ,Simiyu,,16092,16092
+Mbulu,-3.85,35.533333,Tanzania,TZ,Manyara,,13430,7412
+Kilindoni,-7.9139,39.666842,Tanzania,TZ,Coast,,12409,3580
+Ngorongoro,-3.25,35.516667,Tanzania,TZ,Arusha,,10836,10836
+Mbamba Bay,-11.283333,34.766667,Tanzania,TZ,Ruvuma,,8997,8997
+Oldeani,-3.35,35.55,Tanzania,TZ,Arusha,,8000,6601
+Mkokotoni,-5.866667,39.25,Tanzania,TZ,Zanzibar North,admin,2572,2572
+Geita,-2.866667,32.166667,Tanzania,TZ,Geita,,1536,1536
+Kipili,-7.433333,30.6,Tanzania,TZ,Rukwa,,1533,1533
+Tunduru,-11.066667,37.35,Tanzania,TZ,Ruvuma,,600,600
+Manyoni,-5.75,34.833333,Tanzania,TZ,Singida,,310,310
+Kanyato,-4.456944,30.261389,Tanzania,TZ,Kigoma,,232,232
+Koani,-6.133333,39.283333,Tanzania,TZ,Zanzibar Central/South,admin,,

@@ -1,0 +1,33 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Khartoum,15.588056,32.534167,Sudan,SD,Khartoum,primary,4754000,1974647
+Omdurman,15.636111,32.437222,Sudan,SD,Khartoum,,2395159,2183698
+Port Sudan,19.615484,37.203107,Sudan,SD,Red Sea,admin,489725,489725
+Kassala,15.458728,36.389684,Sudan,SD,Kassala,admin,401477,339521
+El Obeid,13.181934,30.221872,Sudan,SD,North Kordofan,admin,393311,269424
+Nyala,12.048882,24.880694,Sudan,SD,South Darfur,admin,392373,392373
+Kūstī,13.166667,32.666667,Sudan,SD,White Nile,,345068,203858
+Wad Medani,14.39227,33.52804,Sudan,SD,Al Gazira,admin,332714,284367
+El Fasher,13.616389,25.356389,Sudan,SD,North Darfur,admin,252609,189203
+Gedaref,14.035833,35.384444,Sudan,SD,Al Gedaref,admin,201282,201282
+Shendi,16.6915,33.4341,Sudan,SD,River Nile,,186611,53568
+Ed Damazin,11.801467,34.356539,Sudan,SD,Blue Nile,admin,186051,42009
+Kadugli,11.011111,29.718333,Sudan,SD,South Kordofan,admin,176931,87666
+Madent Atbara,17.6925,33.9852,Sudan,SD,River Nile,,168612,107930
+El Geneina,13.442742,22.448932,Sudan,SD,West Darfur,admin,162981,159310
+Al Manāqil,14.2459,32.9891,Sudan,SD,Al Gazira,,151827,128297
+Sannār,13.55,33.633333,Sudan,SD,Sennar,,130122,76494
+An Nuhūd,12.7,28.433333,Sudan,SD,Western Kordofan,,108008,61239
+Ed Damer,17.598981,33.972051,Sudan,SD,River Nile,admin,103941,84856
+Ad Diwem,14.0012,32.3116,Sudan,SD,White Nile,,87068,22583
+Tokār,18.4254,37.729,Sudan,SD,Red Sea,,73202,22250
+Umm Ruwaba,12.9061,31.2158,Sudan,SD,North Kordofan,,55742,16257
+Berber,18.021578,33.982991,Sudan,SD,River Nile,,49556,22395
+Dongola,19.18163,30.476888,Sudan,SD,Northern,admin,26404,26404
+Haya,18.3353,36.3856,Sudan,SD,Red Sea,,20000,14818
+Babanūsah,11.333333,27.8,Sudan,SD,Western Kordofan,,19700,19700
+Wādī Ḩalfā’,21.8,31.35,Sudan,SD,Northern,,17121,17121
+Rabak,13.187975,32.74365,Sudan,SD,White Nile,admin,,
+Ed Daein,11.467222,26.131667,Sudan,SD,East Darfur,admin,,
+El Fula,11.711955,28.346197,Sudan,SD,Western Kordofan,admin,,
+Zalingei,12.909179,23.470578,Sudan,SD,Central Darfur,admin,,
+Singa,13.1483,33.931168,Sudan,SD,Sennar,admin,,

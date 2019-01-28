@@ -1,0 +1,37 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Nairobi,-1.283333,36.816667,Kenya,KE,Nairobi City,primary,3010000,2750547
+Mombasa,-4.054655,39.663588,Kenya,KE,Mombasa,admin,882000,799668
+Kisumu,-0.10221,34.761714,Kenya,KE,Kisumu,admin,395615,216479
+Nakuru,-0.283333,36.066667,Kenya,KE,Nakuru,admin,364727,259903
+Eldoret,0.520356,35.269925,Kenya,KE,Uasin Gishu,,353381,218446
+Kitale,1.015725,35.006217,Kenya,KE,Trans Nzoia,,150495,75123
+Machakos,-1.516667,37.266667,Kenya,KE,Machakos,,144925,31971
+Thika,-1.05,37.083333,Kenya,KE,Kiambu,,99322,87821
+Kericho,-0.367744,35.283137,Kenya,KE,Kericho,,98852,35748
+Malindi,-3.217478,40.1191,Kenya,KE,Kilifi,,94016,68304
+Kendu Bay,-0.358917,34.649238,Kenya,KE,Homa Bay,,91248,91248
+Kilifi,-3.630453,39.849915,Kenya,KE,Kilifi,,80339,46118
+Sotik,-0.683333,35.118709,Kenya,KE,Kericho,,71285,2600
+Garissa,-0.453548,39.640108,Kenya,KE,Garissa,admin,67861,64035
+Kakamega,0.284219,34.752285,Kenya,KE,Kakamega,admin,63426,63426
+Embu,-0.531115,37.450605,Kenya,KE,Embu,admin,58620,34922
+Bungoma,0.563504,34.560553,Kenya,KE,Bungoma,,55962,55962
+Nyeri,-0.420132,36.947594,Kenya,KE,Nyeri,admin,51084,51084
+Meru,0.046256,37.655868,Kenya,KE,Meru,,47226,47226
+Wajir,1.747102,40.057315,Kenya,KE,Wajir,,45771,34709
+Naivasha,-0.716667,36.435914,Kenya,KE,Nakuru,,43983,38366
+Voi,-3.394517,38.563036,Kenya,KE,Taita/Taveta,,36487,19624
+Nanyuki,0.016667,37.07283,Kenya,KE,Laikipia,,36142,32542
+Kisii,-0.67394,34.772249,Kenya,KE,Kisii,,28547,28547
+Moyale,3.5167,39.058419,Kenya,KE,Marsabit,,24837,16243
+Lamu,-2.269248,40.899148,Kenya,KE,Lamu,,24525,10345
+Maralal,1.09679,36.697994,Kenya,KE,Samburu,,20841,20841
+Lodwar,3.119881,35.596424,Kenya,KE,Turkana,,20219,13960
+Eldama Ravine,0.051578,35.730776,Kenya,KE,Baringo,,17581,12524
+Marsabit,2.328394,37.989856,Kenya,KE,Marsabit,,16460,15361
+Namanga,-2.543273,36.790532,Kenya,KE,Kajiado,,13193,2136
+Mwingi,-0.934351,38.060047,Kenya,KE,Kitui,,11219,7874
+Witu,-2.388855,40.43821,Kenya,KE,Lamu,,5380,2510
+Karungu,-0.846409,34.154788,Kenya,KE,Migori,,2376,2376
+Konza,-1.742604,37.129414,Kenya,KE,Machakos,,2004,2004
+Tsavo,-2.992083,38.461876,Kenya,KE,Taita/Taveta,,414,414

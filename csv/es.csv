@@ -1,0 +1,64 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Madrid,40.412752,-3.707721,Spain,ES,Madrid,primary,5567000,50437
+Barcelona,41.398371,2.1741,Spain,ES,Catalonia,admin,4920000,1581595
+Sevilla,37.382826,-5.973167,Spain,ES,Andalusia,admin,1212045,703021
+Bilbao,43.260919,-2.938764,Spain,ES,Basque Country,minor,875552,353187
+Valencia,39.466667,-0.366667,Spain,ES,Valencia,admin,808000,805304
+Zaragoza,41.64531,-0.884861,Spain,ES,Aragon,admin,649404,448507
+Málaga,36.726666,-4.434802,Spain,ES,Andalusia,minor,550058,528705
+Murcia,37.987041,-1.130042,Spain,ES,Murcia,admin,406807,329838
+Granada,37.178354,-3.599201,Spain,ES,Andalusia,minor,388290,238248
+Vigo,42.232823,-8.722637,Spain,ES,Galicia,,378952,292745
+Palma,39.574337,2.655222,Spain,ES,Balearic Islands,admin,375773,264129
+A Coruña,43.366609,-8.406812,Spain,ES,Galicia,minor,370610,242619
+Santa María de Gracia,28.466667,-16.266667,Spain,ES,Canary Islands,,336061,222190
+Gijón,43.535731,-5.661519,Spain,ES,Asturias,,335972,271452
+Valladolid,41.655181,-4.72372,Spain,ES,Castille-Leon,admin,322304,276443
+Córdoba,37.89155,-4.772748,Spain,ES,Andalusia,minor,321376,279648
+Alicante,38.34619,-0.487722,Spain,ES,Valencia,minor,315863,276827
+Cádiz,36.515789,-6.279692,Spain,ES,Andalusia,minor,283157,24708
+Pamplona,42.814075,-1.641153,Spain,ES,Navarre,admin,274545,193166
+Oviedo,43.363223,-5.853128,Spain,ES,Asturias,admin,235651,211398
+Zuazo de Vitoria,42.839797,-2.722069,Spain,ES,Basque Country,,224578,173641
+Santander,43.464722,-3.804444,Spain,ES,Cantabria,admin,208763,183288
+Cartagena,37.605121,-0.986232,Spain,ES,Murcia,,201274,131279
+Marbella,36.510485,-4.885745,Spain,ES,Andalusia,,186131,120008
+Mataró,41.542113,2.444503,Spain,ES,Catalonia,,183293,116359
+Almería,36.833333,-2.45,Spain,ES,Andalusia,minor,179405,124660
+Burgos,42.350221,-3.675273,Spain,ES,Castille-Leon,minor,170183,130319
+Salamanca,40.9681,-5.66202,Spain,ES,Castille-Leon,minor,162353,158560
+Albacete,38.995845,-1.857773,Spain,ES,Castille-La Mancha,minor,158094,97100
+Huelva,37.266385,-6.940044,Spain,ES,Andalusia,minor,144174,95290
+Logroño,42.466667,-2.45,Spain,ES,La Rioja,admin,143698,104139
+Badajoz,38.877894,-6.970613,Spain,ES,Extremadura,minor,140133,91144
+León,42.600031,-5.570316,Spain,ES,Castille-Leon,minor,136227,133801
+Tarragona,41.116667,1.25,Spain,ES,Catalonia,minor,126291,89624
+Ourense,42.331342,-7.862711,Spain,ES,Galicia,minor,118107,108083
+Jaén,37.772404,-3.79013,Spain,ES,Andalusia,minor,116400,69418
+Algeciras,36.133257,-5.450511,Spain,ES,Andalusia,,111027,102348
+Santiago de Compostela,42.880035,-8.544826,Spain,ES,Galicia,admin,92430,83012
+Lorca,37.671192,-1.701699,Spain,ES,Murcia,,86119,26964
+Toledo,39.867263,-4.02981,Spain,ES,Castille-La Mancha,admin,74632,33125
+Guadalajara,40.628621,-3.161849,Spain,ES,Castille-La Mancha,minor,72850,30963
+Linares,38.095193,-3.63602,Spain,ES,Andalusia,,59761,39338
+Arrecife,28.965706,-13.551378,Spain,ES,Canary Islands,,52944,41421
+Mérida,38.916109,-6.343657,Spain,ES,Extremadura,admin,52423,52423
+Las Palmas de Gran Canaria,28.099727,-15.41343,Spain,ES,Canary Islands,admin,,
+Vitoria-Gasteiz,42.85,-2.666667,Spain,ES,Basque Country,admin,,
+Castellón de la Plana,39.987497,-0.039246,Spain,ES,Valencia,minor,,
+Palencia,42.009552,-4.524063,Spain,ES,Castille-Leon,minor,,
+Lleida,41.616737,0.622183,Spain,ES,Catalonia,minor,,
+Cáceres,39.481877,-6.373222,Spain,ES,Extremadura,minor,,
+Segovia,40.948083,-4.11839,Spain,ES,Castille-Leon,minor,,
+Pontevedra,42.433333,-8.633333,Spain,ES,Galicia,minor,,
+Santa Cruz de Tenerife,28.460238,-16.280616,Spain,ES,Canary Islands,admin,,
+Soria,41.764335,-2.468251,Spain,ES,Castille-Leon,minor,,
+Huesca,42.13868,-0.409411,Spain,ES,Aragon,minor,,
+Donostia,43.313556,-1.981855,Spain,ES,Basque Country,minor,,
+Cuenca,40.066667,-2.133333,Spain,ES,Castille-La Mancha,minor,,
+Girona,41.982548,2.822449,Spain,ES,Catalonia,minor,,
+Ávila,40.657237,-4.699511,Spain,ES,Castille-Leon,minor,,
+Ciudad Real,38.986258,-3.92907,Spain,ES,Castille-La Mancha,minor,,
+Zamora,41.50494,-5.745296,Spain,ES,Castille-Leon,minor,,
+Lugo,43.013813,-7.558543,Spain,ES,Galicia,minor,,
+Teruel,40.345073,-1.104106,Spain,ES,Aragon,minor,,

@@ -1,0 +1,86 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Kinshasa,-4.327108,15.30717,Congo (Kinshasa),CD,Kinshasa,primary,7843000,5565703
+Lubumbashi,-11.671453,27.479161,Congo (Kinshasa),CD,Haut-Katanga,admin,1352000,876634
+Mbuji-Mayi,-6.134238,23.610154,Congo (Kinshasa),CD,Kasaï Oriental,admin,1295000,874761
+Kananga,-5.896241,22.416588,Congo (Kinshasa),CD,Kasaï Central,admin,765000,463546
+Kikwit,-5.041748,18.819516,Congo (Kinshasa),CD,Kwilu,admin,637736,294210
+Kisangani,0.51528,25.190987,Congo (Kinshasa),CD,Tshopo,admin,578470,539158
+Bukavu,-2.490765,28.84281,Congo (Kinshasa),CD,Sud-Kivu,admin,436779,225389
+Likasi,-10.983031,26.738395,Congo (Kinshasa),CD,Haut-Katanga,,434408,422414
+Kolwezi,-10.716667,25.4725,Congo (Kinshasa),CD,Lualaba,admin,418000,418000
+Beni,0.491133,29.473059,Congo (Kinshasa),CD,Nord-Kivu,,332903,89648
+Butembo,0.128772,29.288205,Congo (Kinshasa),CD,Nord-Kivu,,286403,154621
+Mbandaka,0.048647,18.260335,Congo (Kinshasa),CD,Équateur,admin,274996,184185
+Tshikapa,-6.419145,20.793283,Congo (Kinshasa),CD,Kasaï,,267462,135051
+Kindu,-2.943733,25.922369,Congo (Kinshasa),CD,Maniema,admin,262914,135698
+Matadi,-5.838611,13.463056,Congo (Kinshasa),CD,Kongo Central,admin,245862,180109
+Kalemie,-5.919012,29.190363,Congo (Kinshasa),CD,Tanganyika,admin,206257,146974
+Gemena,3.256506,19.772336,Congo (Kinshasa),CD,Sud-Ubangi,admin,198056,117639
+Ngungu,-5.263084,14.873087,Congo (Kinshasa),CD,Kongo Central,,197545,86356
+Mwene-Ditu,-7.009055,23.452781,Congo (Kinshasa),CD,Lomami,,189177,117480
+Boma,-5.838989,13.05692,Congo (Kinshasa),CD,Kongo Central,,178638,178638
+Uvira,-3.395338,29.137788,Congo (Kinshasa),CD,Sud-Kivu,,170391,158315
+Bumba,2.187713,22.468267,Congo (Kinshasa),CD,Mongala,,160539,95520
+Isiro,2.773913,27.616028,Congo (Kinshasa),CD,Haut-Uélé,admin,157196,127076
+Gandajika,-6.745044,23.953282,Congo (Kinshasa),CD,Lomami,,154425,57114
+Moanda,-5.927525,12.371476,Congo (Kinshasa),CD,Kongo Central,,153915,153915
+Wamba,2.148382,27.994661,Congo (Kinshasa),CD,Haut-Uélé,,146871,17373
+Goma,-1.674092,29.228452,Congo (Kinshasa),CD,Nord-Kivu,admin,144124,144124
+Kamina,-8.735077,24.997983,Congo (Kinshasa),CD,Haut-Lomami,admin,128803,73557
+Bandundu,-3.316868,17.38063,Congo (Kinshasa),CD,Kwilu,,118211,97784
+Kipushi,-11.760973,27.25135,Congo (Kinshasa),CD,Haut-Katanga,,113347,62332
+Ilebo,-4.331115,20.586381,Congo (Kinshasa),CD,Kasaï,,107093,35158
+Kongolo,-5.385319,27.000285,Congo (Kinshasa),CD,Tanganyika,,105202,31943
+Bunia,1.559406,30.252237,Congo (Kinshasa),CD,Ituri,admin,96764,26310
+Lisala,2.153766,21.514955,Congo (Kinshasa),CD,Mongala,admin,70087,58453
+Binga,2.373515,20.497685,Congo (Kinshasa),CD,Mongala,,64639,64639
+Kasongo,-4.531145,26.579923,Congo (Kinshasa),CD,Maniema,,63000,55118
+Kabinda,-6.13921,24.483231,Congo (Kinshasa),CD,Lomami,admin,59004,15728
+Aketi,2.738767,23.783262,Congo (Kinshasa),CD,Bas-Uélé,,58601,35161
+Basankusu,1.220952,19.802048,Congo (Kinshasa),CD,Équateur,,52216,52216
+Mweka,-4.851868,21.559503,Congo (Kinshasa),CD,Kasaï,,50675,39769
+Gbadolite,4.278999,21.002844,Congo (Kinshasa),CD,Nord-Ubangi,admin,50493,19901
+Kahemba,-7.297911,18.957345,Congo (Kinshasa),CD,Kwango,,50000,41289
+Bulungu,-4.544375,18.603637,Congo (Kinshasa),CD,Kwilu,,48344,36277
+Manono,-7.298621,27.398939,Congo (Kinshasa),CD,Tanganyika,,46111,46111
+Buta,2.785822,24.729975,Congo (Kinshasa),CD,Bas-Uélé,admin,45677,42713
+Basayo,1.275689,23.573868,Congo (Kinshasa),CD,Tshopo,,43709,2197
+Lubao,-5.387707,25.748848,Congo (Kinshasa),CD,Lomami,,43068,9217
+Lusambo,-4.975031,23.443906,Congo (Kinshasa),CD,Sankuru,admin,41416,12190
+Inongo,-1.927504,18.288103,Congo (Kinshasa),CD,Mai-Ndombe,admin,40113,20249
+Tshela,-4.997068,12.948396,Congo (Kinshasa),CD,Kongo Central,,38845,947
+Bukama,-9.204434,25.854754,Congo (Kinshasa),CD,Haut-Lomami,,38770,3031
+Ipanga,-4.016667,19.5,Congo (Kinshasa),CD,Kwilu,,37188,2704
+Kampene,-3.596775,26.667151,Congo (Kinshasa),CD,Maniema,,37034,2405
+Kambove,-10.873516,26.597457,Congo (Kinshasa),CD,Haut-Katanga,,36702,1167
+Kaniama,-7.573499,24.174355,Congo (Kinshasa),CD,Haut-Lomami,,36481,29412
+Yangambi,0.78013,24.45681,Congo (Kinshasa),CD,Tshopo,,35531,540
+Luebo,-5.35218,21.421921,Congo (Kinshasa),CD,Kasaï,admin,35183,182
+Businga,3.338631,20.88577,Congo (Kinshasa),CD,Nord-Ubangi,,34247,28919
+Mushie,-3.017278,16.922383,Congo (Kinshasa),CD,Mai-Ndombe,,33062,14965
+Boende,-0.281632,20.880526,Congo (Kinshasa),CD,Tshuapa,admin,32091,17268
+Kabalo,-6.052555,26.9143,Congo (Kinshasa),CD,Tanganyika,,29833,13869
+Kasangulu,-4.583298,15.165536,Congo (Kinshasa),CD,Kongo Central,,27961,17329
+Ngebolobo,-2.172272,16.272414,Congo (Kinshasa),CD,Mai-Ndombe,,27862,17349
+Libenge,3.653317,18.635656,Congo (Kinshasa),CD,Sud-Ubangi,,27053,7751
+Watsa,3.037162,29.535509,Congo (Kinshasa),CD,Haut-Uélé,,24516,10927
+Bondo,3.814607,23.686651,Congo (Kinshasa),CD,Bas-Uélé,,23517,17860
+Demba,-5.495731,22.269622,Congo (Kinshasa),CD,Kasaï Central,,22263,11754
+Kasongo-Lunda,-6.479677,16.712155,Congo (Kinshasa),CD,Kwango,,20060,17436
+Zongo,4.342834,18.594469,Congo (Kinshasa),CD,Sud-Ubangi,,17667,17667
+Nyunzu,-5.956094,28.016495,Congo (Kinshasa),CD,Tanganyika,,15397,15397
+Bosodongo,4.182652,19.871131,Congo (Kinshasa),CD,Nord-Ubangi,,14553,3384
+Kasaji,-10.378311,23.428011,Congo (Kinshasa),CD,Lualaba,,11969,11969
+Kimpese,-5.534851,14.437878,Congo (Kinshasa),CD,Kongo Central,,10578,10578
+Moba,-7.084078,29.736812,Congo (Kinshasa),CD,Tanganyika,,10006,10006
+Dilolo,-10.68676,22.340982,Congo (Kinshasa),CD,Lualaba,,7854,7854
+Bongandanga,1.506947,21.072605,Congo (Kinshasa),CD,Mongala,,4105,1687
+Mangbwalu,1.944678,30.038612,Congo (Kinshasa),CD,Ituri,,2819,2819
+Mwenga,-3.026266,28.443724,Congo (Kinshasa),CD,Sud-Kivu,,2216,2216
+Lubutu,-0.744767,26.583988,Congo (Kinshasa),CD,Maniema,,1313,1313
+Buluko,-0.759818,28.485282,Congo (Kinshasa),CD,Nord-Kivu,,1192,1192
+Luanza,-8.712962,28.704374,Congo (Kinshasa),CD,Haut-Katanga,,861,861
+Dibaya,-6.479915,22.889498,Congo (Kinshasa),CD,Kasaï Central,,603,603
+Kenge,-4.853671,16.964483,Congo (Kinshasa),CD,Kwango,admin,241,241
+Lusanga,-5.574034,16.515094,Congo (Kinshasa),CD,Kwango,,177,177
+Bafwazana,1.088585,27.278701,Congo (Kinshasa),CD,Tshopo,,149,149

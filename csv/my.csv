@@ -1,0 +1,41 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+George Town,5.411229,100.335426,Malaysia,MY,Pulau Pinang,admin,2500000,720202
+Kuala Lumpur,3.166667,101.7,Malaysia,MY,Kuala Lumpur ,primary,1448000,1448000
+Johor Bahru,1.4655,103.7578,Malaysia,MY,Johor,admin,875000,802489
+Butterworth,5.399102,100.363818,Malaysia,MY,Pulau Pinang,,821652,107591
+Melaka,2.196,102.2405,Malaysia,MY,Melaka,,788706,503127
+Ipoh,4.5841,101.0829,Malaysia,MY,Perak,admin,673318,639136
+Kuching,1.416667,110.333333,Malaysia,MY,,,570407,504963
+Kota Kinabalu,5.9749,116.0724,Malaysia,MY,Sabah,admin,527671,457326
+Kampong Baharu,6.116667,102.216667,Malaysia,MY,Kelantan,,505583,279316
+Shah Alam,3.083333,101.533333,Malaysia,MY,,,481654,481654
+Sandakan,5.8402,118.1179,Malaysia,MY,Sabah,,392288,291289
+Seremban Garden,2.702,101.9655,Malaysia,MY,Negeri Sembilan,,372917,300731
+Kuantan,3.8077,103.326,Malaysia,MY,Pahang,admin,366229,274695
+Kampung Sungai Pasir,5.615259,100.468041,Malaysia,MY,Kedah,,358499,228843
+Kuala Terengganu,5.3302,103.1408,Malaysia,MY,Terengganu,admin,350210,285065
+Alor Setar,6.121045,100.360137,Malaysia,MY,Kedah,admin,336475,217368
+Tawau,4.2498,117.8871,Malaysia,MY,Sabah,,306462,289531
+Taiping,4.85,100.733333,Malaysia,MY,Perak,,237095,217647
+Miri,4.4148,114.0089,Malaysia,MY,Sarawak,,228212,211703
+Sibu,2.3,111.816667,Malaysia,MY,Sarawak,,203832,198239
+Batu Pahat,1.8548,102.9325,Malaysia,MY,Johor,,199619,156236
+Muar,2.0442,102.5689,Malaysia,MY,Johor,,191346,127897
+Kluang,2.0251,103.3328,Malaysia,MY,Johor,,169828,156700
+Bintulu,3.166667,113.033333,Malaysia,MY,Sarawak,,151617,83670
+Lahad Datu,5.0268,118.327,Malaysia,MY,Sabah,,105622,60310
+Teluk Intan,4.0259,101.0213,Malaysia,MY,Perak,,101659,63353
+Cukai,4.25,103.416667,Malaysia,MY,Terengganu,,82425,44646
+Kangar,6.4414,100.198619,Malaysia,MY,Perlis,admin,63869,63869
+Raub,3.7899,101.857,Malaysia,MY,Pahang,,40024,33521
+Kuala Lipis,4.1842,102.0468,Malaysia,MY,Pahang,,15448,15448
+Klang,3.033333,101.45,Malaysia,MY,Selangor,admin,,
+Seremban,2.7297,101.9381,Malaysia,MY,Negeri Sembilan,admin,,
+Kampung Lemal,6.030211,102.141257,Malaysia,MY,Kelantan,minor,,
+Kuching,1.55,110.333333,Malaysia,MY,Sarawak,admin,,
+Ketereh,5.957008,102.24817,Malaysia,MY,Kelantan,minor,,
+Tumpat,6.197755,102.170976,Malaysia,MY,Kelantan,minor,,
+Victoria,5.276667,115.241667,Malaysia,MY,Labuan,admin,,
+Pasir Mas,6.049337,102.139873,Malaysia,MY,Kelantan,minor,,
+Kota Bharu,6.133275,102.238603,Malaysia,MY,Kelantan,minor,,
+Pulai Chondong,5.871332,102.231766,Malaysia,MY,Kelantan,minor,,

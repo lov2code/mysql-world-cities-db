@@ -1,0 +1,72 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Bogotá,4.649178,-74.062827,Colombia,CO,Bogotá,primary,7772000,6333661
+Medellín,6.25184,-75.563591,Colombia,CO,Antioquia,admin,3297000,1999979
+Cali,3.437222,-76.5225,Colombia,CO,Valle del Cauca,admin,2254000,2178836
+Barranquilla,10.963889,-74.796389,Colombia,CO,Atlántico,admin,1798000,1244491
+Bucaramanga,7.125393,-73.119804,Colombia,CO,Santander,admin,1009000,571820
+Cartagena,10.399722,-75.514444,Colombia,CO,Bolívar,admin,887000,887000
+Cúcuta,7.893907,-72.507821,Colombia,CO,Norte de Santander,admin,722146,721398
+Soledad,10.918433,-74.76459,Colombia,CO,Atlántico,,698852,342556
+Pereira,4.813333,-75.696111,Colombia,CO,Risaralda,admin,568750,440118
+Santa Marta,11.240791,-74.19904,Colombia,CO,Magdalena,admin,431781,402641
+Ibagué,4.438889,-75.232222,Colombia,CO,Tolima,admin,421685,408627
+Pasto,1.213611,-77.281111,Colombia,CO,Nariño,admin,382236,360041
+Manizales,5.06889,-75.517383,Colombia,CO,Caldas,admin,375848,357814
+Villavicencio,4.142002,-73.626645,Colombia,CO,Meta,admin,374763,321717
+Neiva,2.927299,-75.281885,Colombia,CO,Huila,admin,352855,284277
+Armenia,4.533889,-75.681111,Colombia,CO,Quindío,admin,315328,314267
+Valledupar,10.46314,-73.253224,Colombia,CO,Cesar,admin,308237,287018
+Montería,8.747984,-75.881428,Colombia,CO,Córdoba,admin,275198,272420
+Sincelejo,9.304722,-75.397778,Colombia,CO,Sucre,admin,261187,218388
+Popayán,2.444444,-76.613889,Colombia,CO,Cauca,admin,258750,258750
+Buenaventura,3.880099,-77.031164,Colombia,CO,Valle del Cauca,,252805,240387
+Barrancabermeja,7.065278,-73.854722,Colombia,CO,Santander,,191403,164201
+Tuluá,4.084656,-76.19536,Colombia,CO,Valle del Cauca,,165501,163062
+Tunja,5.535278,-73.367778,Colombia,CO,Boyacá,admin,161412,117479
+Cartago,4.746389,-75.911667,Colombia,CO,Valle del Cauca,,134827,111513
+Ríohacha,11.544444,-72.907222,Colombia,CO,La Guajira,admin,133186,92431
+Ciénaga,11.007029,-74.247646,Colombia,CO,Magdalena,,131171,88311
+Florencia,1.614382,-75.606229,Colombia,CO,Caquetá,admin,130337,44861
+Girardot,4.298659,-74.804681,Colombia,CO,Cundinamarca,,130289,113372
+Sogamoso,5.714344,-72.933908,Colombia,CO,Boyacá,,126551,113592
+Pupiales,0.87136,-77.640269,Colombia,CO,Nariño,,109618,77729
+Duitama,5.824499,-73.034083,Colombia,CO,Boyacá,,101156,92040
+Magangué,9.242024,-74.754671,Colombia,CO,Bolívar,,100313,89511
+Quibdó,5.694722,-76.661111,Colombia,CO,Chocó,admin,92780,75104
+Tumaco,1.798611,-78.815556,Colombia,CO,Nariño,,86713,86713
+Ocaña,8.237727,-73.356038,Colombia,CO,Norte de Santander,,83511,83292
+Arauca,7.084512,-70.755366,Colombia,CO,Arauca,admin,69264,23797
+Sabanalarga,10.629617,-74.92063,Colombia,CO,Atlántico,,68535,63027
+Yopal,5.337752,-72.395859,Colombia,CO,Casanare,admin,61029,61029
+El Carmen de Bolívar,9.717396,-75.120232,Colombia,CO,Bolívar,,60980,47957
+Leticia,-4.215278,-69.940556,Colombia,CO,Amazonas,admin,59575,32450
+San Andrés,12.584722,-81.700556,Colombia,CO,San Andrés y Providencia,admin,58257,58257
+Garzón,2.19593,-75.627773,Colombia,CO,Huila,,56603,29451
+El Banco,9.001137,-73.975807,Colombia,CO,Magdalena,,54522,24735
+Chiquinquirá,5.616373,-73.817484,Colombia,CO,Boyacá,,53975,45294
+Pamplona,7.375647,-72.647949,Colombia,CO,Norte de Santander,,53587,52247
+Lorica,9.236484,-75.813499,Colombia,CO,Córdoba,,52771,40605
+Turbo,8.093678,-76.726908,Colombia,CO,Antioquia,,50508,34007
+Arjona,10.254444,-75.343889,Colombia,CO,Bolívar,,50405,44045
+Honda,5.20856,-74.735842,Colombia,CO,Tolima,,35469,28158
+Yarumal,7.030278,-75.590556,Colombia,CO,Antioquia,,35315,35315
+Puerto Berrío,6.491565,-74.403264,Colombia,CO,Antioquia,,33983,32405
+Túquerres,1.088776,-77.618305,Colombia,CO,Nariño,,33979,20184
+Tame,6.460647,-71.736176,Colombia,CO,Arauca,,29099,20961
+Tolú,9.523919,-75.581392,Colombia,CO,Sucre,,27390,12049
+Socorro,6.468382,-73.260224,Colombia,CO,Santander,,24895,17752
+Ayapel,8.313721,-75.139822,Colombia,CO,Córdoba,,23639,22602
+Campoalegre,2.684892,-75.323109,Colombia,CO,Huila,,22568,11549
+San José del Guaviare,2.572858,-72.645914,Colombia,CO,Guaviare,admin,22136,21214
+Mocoa,1.149327,-76.64661,Colombia,CO,Putumayo,admin,22035,22035
+Sonsón,5.71062,-75.310685,Colombia,CO,Antioquia,,18817,17232
+Puerto López,4.084514,-72.955974,Colombia,CO,Meta,,16678,7649
+San Marcos,3.67274,-73.656431,Colombia,CO,Meta,,16273,8335
+Guapi,2.570823,-77.885421,Colombia,CO,Cauca,,13853,13853
+Puerto Carreño,6.189031,-67.485879,Colombia,CO,Vichada,admin,10216,5861
+Mitú,1.257778,-70.234722,Colombia,CO,Vaupés,admin,5917,5917
+Orocué,4.791175,-71.335423,Colombia,CO,Casanare,,2835,1418
+Nuquí,5.7125,-77.270833,Colombia,CO,Chocó,,2741,233
+Juradó,7.106113,-77.75794,Colombia,CO,Chocó,,2351,2351
+San Vicente del Caguán,2.121722,-74.766141,Colombia,CO,Caquetá,,1500,1000
+Inírida,3.865278,-67.923889,Colombia,CO,Guainía,admin,,

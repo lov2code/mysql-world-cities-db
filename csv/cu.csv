@@ -1,0 +1,138 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Havana,23.131944,-82.364167,Cuba,CU,La Habana,primary,2174000,1990917
+Santiago de Cuba,20.020833,-75.826667,Cuba,CU,Santiago de Cuba,admin,555865,446063
+Camagüey,21.380833,-77.916944,Cuba,CU,Camagüey,admin,347562,295605
+Holguín,20.887222,-76.263056,Cuba,CU,Holguín,admin,319102,300177
+Guantánamo,20.144444,-75.209167,Cuba,CU,Guantánamo,admin,272801,217338
+Santa Clara,22.406944,-79.964722,Cuba,CU,Villa Clara,admin,250512,219288
+Las Tunas,20.961667,-76.951111,Cuba,CU,Las Tunas,admin,203684,156112
+Bayamo,20.374167,-76.643611,Cuba,CU,Granma,admin,192632,162614
+Pinar del Río,22.416667,-83.696667,Cuba,CU,Pinar del Río,admin,186990,159618
+Cienfuegos,22.146111,-80.435556,Cuba,CU,Cienfuegos,admin,186644,106455
+Matanzas,23.041111,-81.5775,Cuba,CU,Matanzas,admin,146733,123873
+Ciego de Ávila,21.84,-78.761944,Cuba,CU,Ciego de Ávila,admin,142027,102660
+Manzanillo,20.341726,-77.12126,Cuba,CU,Granma,minor,128188,86678
+Sancti Spíritus,21.929722,-79.4425,Cuba,CU,Sancti Spíritus,admin,127069,76352
+Palma Soriano,20.211297,-75.993616,Cuba,CU,Santiago de Cuba,minor,102826,67394
+Güines,22.837268,-82.026409,Cuba,CU,Mayabeque,minor,68935,45955
+Artemisa,22.816667,-82.759444,Cuba,CU,Artemisa,admin,68073,23976
+Morón,22.107736,-78.626672,Cuba,CU,Ciego de Ávila,minor,66060,49043
+Colón,22.72064,-80.904918,Cuba,CU,Matanzas,minor,63882,17472
+Sagua la Grande,22.806667,-80.075556,Cuba,CU,Villa Clara,minor,62073,19432
+Placetas,22.311837,-79.654402,Cuba,CU,Villa Clara,minor,55408,14538
+Nuevitas,21.545853,-77.265044,Cuba,CU,Camagüey,,54022,39570
+Banes,20.961164,-75.721999,Cuba,CU,Holguín,minor,53104,42387
+San Antonio de los Baños,22.890183,-82.500988,Cuba,CU,Artemisa,minor,42724,32628
+Caibarién,22.519965,-79.465992,Cuba,CU,Villa Clara,minor,39140,11722
+Nueva Gerona,21.886667,-82.805556,Cuba,CU,Isla de la Juventud,admin,25566,20264
+San Luis,20.188092,-75.850315,Cuba,CU,Santiago de Cuba,minor,,
+San Luis,22.278976,-83.759559,Cuba,CU,Pinar del Río,minor,,
+Río Cauto,20.559713,-76.916733,Cuba,CU,Granma,minor,,
+Primero de Enero,21.945009,-78.431303,Cuba,CU,Ciego de Ávila,minor,,
+Bolivia,22.083972,-78.338842,Cuba,CU,Ciego de Ávila,minor,,
+Guanajay,22.926389,-82.6875,Cuba,CU,Artemisa,minor,,
+Niquero,20.046985,-77.58089,Cuba,CU,Granma,minor,,
+Gaspar,21.738718,-78.54434,Cuba,CU,Ciego de Ávila,minor,,
+Jaruco,23.044191,-82.009193,Cuba,CU,Mayabeque,minor,,
+Los Palacios,22.588824,-83.24671,Cuba,CU,Pinar del Río,minor,,
+Majagua,21.917173,-79.003287,Cuba,CU,Ciego de Ávila,minor,,
+Cubitas,21.712115,-77.7613,Cuba,CU,Camagüey,minor,,
+Quivicán,22.823131,-82.355576,Cuba,CU,Mayabeque,minor,,
+Esmeralda,21.851386,-78.117248,Cuba,CU,Camagüey,minor,,
+Venezuela,21.73748,-78.793361,Cuba,CU,Ciego de Ávila,minor,,
+Ciro Redondo,22.013874,-78.703392,Cuba,CU,Ciego de Ávila,minor,,
+San José de las Lajas,22.961389,-82.15111,Cuba,CU,Mayabeque,admin,,
+Bejucal,22.928611,-82.388611,Cuba,CU,Mayabeque,minor,,
+Imías,20.069359,-74.631404,Cuba,CU,Guantánamo,minor,,
+Mayarí,20.654169,-75.679449,Cuba,CU,Holguín,minor,,
+Campechuela,20.233294,-77.279901,Cuba,CU,Granma,minor,,
+Jagüey Grande,22.526944,-81.128611,Cuba,CU,Matanzas,minor,,
+Lajas,22.414794,-80.293097,Cuba,CU,Cienfuegos,minor,,
+Trinidad,21.80224,-79.98467,Cuba,CU,Sancti Spíritus,minor,,
+Báguanos,20.751026,-76.025705,Cuba,CU,Holguín,minor,,
+Palmira,22.241256,-80.391101,Cuba,CU,Cienfuegos,minor,,
+Santa Lucía,21.029424,-75.994409,Cuba,CU,Holguín,minor,,
+Puerto Padre,21.195168,-76.60358,Cuba,CU,Las Tunas,minor,,
+Florida,21.525362,-78.225787,Cuba,CU,Camagüey,minor,,
+Corralillo,22.982121,-80.585556,Cuba,CU,Villa Clara,minor,,
+Baracoa,20.347115,-74.496244,Cuba,CU,Guantánamo,minor,,
+San Cristóbal,22.715744,-83.047042,Cuba,CU,Artemisa,minor,,
+Manicaragua,22.147109,-79.97398,Cuba,CU,Villa Clara,minor,,
+Minas,21.488015,-77.610327,Cuba,CU,Camagüey,minor,,
+San Germán,20.600089,-76.133639,Cuba,CU,Holguín,minor,,
+Moa,20.658919,-74.941101,Cuba,CU,Holguín,minor,,
+Los Arabos,22.729695,-80.720813,Cuba,CU,Matanzas,minor,,
+Cayo Mambí,20.663815,-75.26882,Cuba,CU,Holguín,minor,,
+Ranchuelo,22.376801,-80.149833,Cuba,CU,Villa Clara,minor,,
+Martí,22.947136,-80.919018,Cuba,CU,Matanzas,minor,,
+Consolación del Sur,22.504194,-83.514423,Cuba,CU,Pinar del Río,minor,,
+Gibara,21.109882,-76.131448,Cuba,CU,Holguín,minor,,
+Sagua de Tánamo,20.58269,-75.24116,Cuba,CU,Holguín,minor,,
+Caimito,22.950516,-82.594345,Cuba,CU,Artemisa,minor,,
+Jobabo,20.907478,-77.281938,Cuba,CU,Las Tunas,minor,,
+Limonar,22.950354,-81.410594,Cuba,CU,Matanzas,minor,,
+San Antonio del Sur,20.057561,-74.810539,Cuba,CU,Guantánamo,minor,,
+Bahía Honda,22.903317,-83.159944,Cuba,CU,Artemisa,minor,,
+Remedios,22.495016,-79.545479,Cuba,CU,Villa Clara,minor,,
+Cabaiguán,22.078738,-79.497256,Cuba,CU,Sancti Spíritus,minor,,
+Bartolomé Masó,20.166354,-76.942911,Cuba,CU,Granma,minor,,
+Manatí,21.310702,-76.934033,Cuba,CU,Las Tunas,minor,,
+Vertientes,21.258171,-78.14979,Cuba,CU,Camagüey,minor,,
+Camajuaní,22.46476,-79.723243,Cuba,CU,Villa Clara,minor,,
+Pedro Betancourt,22.727086,-81.289633,Cuba,CU,Matanzas,minor,,
+Contramaestre,20.298794,-76.245115,Cuba,CU,Santiago de Cuba,minor,,
+Güira de Melena,22.79613,-82.506673,Cuba,CU,Artemisa,minor,,
+Mariel,22.989309,-82.753758,Cuba,CU,Artemisa,minor,,
+Jesús Menéndez,21.161395,-76.47919,Cuba,CU,Las Tunas,minor,,
+Nueva Paz,22.76266,-81.756175,Cuba,CU,Mayabeque,minor,,
+Perico,22.769874,-81.0183,Cuba,CU,Matanzas,minor,,
+La Sierpe,21.772407,-79.268321,Cuba,CU,Sancti Spíritus,minor,,
+Jatibonico,21.943333,-79.169058,Cuba,CU,Sancti Spíritus,minor,,
+Najasa,21.07308,-77.745159,Cuba,CU,Camagüey,minor,,
+Aguada de Pasajeros,22.383639,-80.847967,Cuba,CU,Cienfuegos,minor,,
+Florencia,22.146103,-78.973281,Cuba,CU,Ciego de Ávila,minor,,
+San Nicolás,22.784294,-81.913333,Cuba,CU,Mayabeque,minor,,
+Buey Arriba,20.17182,-76.756585,Cuba,CU,Granma,minor,,
+San Juan y Martínez,22.279666,-83.8401,Cuba,CU,Pinar del Río,minor,,
+Palenque,20.36373,-74.970398,Cuba,CU,Guantánamo,minor,,
+Madruga,22.909997,-81.856389,Cuba,CU,Mayabeque,minor,,
+Pilón,19.905531,-77.323452,Cuba,CU,Granma,minor,,
+Colombia,20.988123,-77.425979,Cuba,CU,Las Tunas,minor,,
+Quemado de Güines,22.78816,-80.252255,Cuba,CU,Villa Clara,minor,,
+Bauta,22.982257,-82.547193,Cuba,CU,Artemisa,minor,,
+Cacocum,20.737749,-76.325743,Cuba,CU,Holguín,minor,,
+Rodas,22.341843,-80.55596,Cuba,CU,Cienfuegos,minor,,
+Melena del Sur,22.788568,-82.15047,Cuba,CU,Mayabeque,minor,,
+Jiguaní,20.367847,-76.427415,Cuba,CU,Granma,minor,,
+Guáimaro,21.052218,-77.349903,Cuba,CU,Camagüey,minor,,
+Cifuentes,22.645218,-80.046029,Cuba,CU,Villa Clara,minor,,
+Calixto,20.920362,-76.871445,Cuba,CU,Las Tunas,minor,,
+Calimete,22.533203,-80.905783,Cuba,CU,Matanzas,minor,,
+La Máquina,20.191984,-74.227191,Cuba,CU,Guantánamo,minor,,
+Yara,20.27465,-76.951323,Cuba,CU,Granma,minor,,
+Chambas,22.195342,-78.912301,Cuba,CU,Ciego de Ávila,minor,,
+Antilla,20.831038,-75.735664,Cuba,CU,Holguín,minor,,
+Guisa,20.254937,-76.539301,Cuba,CU,Granma,minor,,
+Encrucijada,22.618022,-79.866034,Cuba,CU,Villa Clara,minor,,
+La Palma,22.74995,-83.554153,Cuba,CU,Pinar del Río,minor,,
+Unión de Reyes,22.795051,-81.536168,Cuba,CU,Matanzas,minor,,
+Minas de Matahambre,22.586912,-83.945508,Cuba,CU,Pinar del Río,minor,,
+Santa Cruz del Norte,23.154237,-81.925559,Cuba,CU,Mayabeque,minor,,
+Cumanayagua,22.149444,-80.202222,Cuba,CU,Cienfuegos,minor,,
+Cárdenas,23.036608,-81.205961,Cuba,CU,Matanzas,minor,,
+Yaguajay,22.326914,-79.235671,Cuba,CU,Sancti Spíritus,minor,,
+Jovellanos,22.803753,-81.191268,Cuba,CU,Matanzas,minor,,
+Sibanicú,21.236309,-77.525607,Cuba,CU,Camagüey,minor,,
+Santo Domingo,22.586774,-80.242608,Cuba,CU,Villa Clara,minor,,
+Alquízar,22.805167,-82.583925,Cuba,CU,Artemisa,minor,,
+Media Luna,20.142977,-77.435318,Cuba,CU,Granma,minor,,
+Taguasco,22.001978,-79.263866,Cuba,CU,Sancti Spíritus,minor,,
+Jimaguayú,21.24224,-77.826248,Cuba,CU,Camagüey,minor,,
+Santa Cruz del Sur,20.716325,-77.998164,Cuba,CU,Camagüey,minor,,
+Fomento,22.104747,-79.721406,Cuba,CU,Sancti Spíritus,minor,,
+Batabanó,22.717939,-82.289653,Cuba,CU,Mayabeque,minor,,
+Amancio,20.81914,-77.579575,Cuba,CU,Las Tunas,minor,,
+Viñales,22.615784,-83.709034,Cuba,CU,Pinar del Río,minor,,
+Carlos Manuel de Céspedes,21.575725,-78.282514,Cuba,CU,Camagüey,minor,,
+Cruces,22.34203,-80.270212,Cuba,CU,Cienfuegos,minor,,
+Candelaria,22.740565,-82.959119,Cuba,CU,Artemisa,minor,,

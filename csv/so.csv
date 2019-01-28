@@ -1,0 +1,34 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Mogadishu,2.046193,45.33407,Somalia,SO,Banaadir,primary,1100000,875388
+Kismaayo,-0.358173,42.545365,Somalia,SO,Jubbada Hoose,admin,234852,134951
+Jamaame,0.069683,42.744972,Somalia,SO,Jubbada Hoose,,185270,128577
+Jawhar,2.780868,45.500484,Somalia,SO,Shabeellaha Dhexe,admin,111308,62000
+Beledweyne,4.735833,45.203611,Somalia,SO,Hiiraan,admin,62945,55410
+Gaalkacyo,6.769722,47.430833,Somalia,SO,Mudug,admin,61200,53501
+Boosaaso,11.284209,49.181577,Somalia,SO,Bari,admin,46969,46969
+Luuq,3.79376,42.544501,Somalia,SO,Gedo,,33820,33820
+Buurhakaba,2.802571,44.078055,Somalia,SO,Bay,minor,31267,27792
+Eyl,7.9803,49.8164,Somalia,SO,Nugaal,,18904,369
+Bandarbeyla,9.4942,50.8122,Somalia,SO,Bari,,13753,13753
+Garbahaarrey,3.328919,42.22091,Somalia,SO,Gedo,admin,12652,12652
+Buur Gaabo,-1.219174,41.837245,Somalia,SO,Jubbada Hoose,,3096,3096
+Garoowe,8.405364,48.484465,Somalia,SO,Nugaal,admin,2568,2568
+Marka,1.715938,44.771662,Somalia,SO,Shabeellaha Hoose,admin,1958,1958
+Xuddur,4.121291,43.889452,Somalia,SO,Bakool,admin,1639,1639
+Bu’aale,1.083333,42.583333,Somalia,SO,Jubbada Dhexe,admin,1490,1490
+Qardho,9.505062,49.084944,Somalia,SO,Bari,,1341,1341
+Mereeg,3.766667,47.3,Somalia,SO,Galguduud,,548,548
+Caluula,11.966113,50.756936,Somalia,SO,Bari,,513,513
+Hurdiyo,10.5627,51.1344,Somalia,SO,Bari,,176,176
+Qoryooley,1.787845,44.52999,Somalia,SO,Shabeellaha Hoose,minor,,
+Laascaanood,8.477379,47.35971,Somalia,SO,Sool,admin,,
+Ceerigaabo,10.616158,47.367947,Somalia,SO,Sanaag,admin,,
+Baidoa,3.113826,43.649802,Somalia,SO,Bay,admin,,
+Dhuusamarreeb,5.535975,46.386656,Somalia,SO,Galguduud,admin,,
+Afgooye,2.1381,45.1212,Somalia,SO,Shabeellaha Hoose,minor,,
+Burco,9.522125,45.533626,Somalia,SO,Togdheer,admin,,
+Hobyo,5.3505,48.5268,Somalia,SO,Mudug,minor,,
+Laasqoray,11.1595,48.1967,Somalia,SO,Sanaag,minor,,
+Baki,9.892059,43.385306,Somalia,SO,Awdal,admin,,
+Hargeysa,9.56,44.065,Somalia,SO,Woqooyi Galbeed,admin,,
+Lughaye,10.685733,43.943973,Somalia,SO,Awdal,minor,,

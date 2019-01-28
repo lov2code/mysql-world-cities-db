@@ -1,0 +1,29 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Beirut,33.871944,35.509722,Lebanon,LB,Beyrouth,primary,1846000,1712125
+Sidon,33.559932,35.375636,Lebanon,LB,Liban-Sud,admin,173894,173894
+Nabatîyé el Faouqa,33.363889,35.4925,Lebanon,LB,Nabatîyé,,80000,40000
+Zahlé,33.849722,35.904167,Lebanon,LB,Béqaa,admin,78145,44239
+Bsaba,33.803056,35.5425,Lebanon,LB,Mont-Liban,,9000,9000
+Baabda,33.833889,35.544167,Lebanon,LB,Mont-Liban,admin,,
+Aaley,33.805278,35.6,Lebanon,LB,Mont-Liban,minor,,
+Halba,34.542778,36.079722,Lebanon,LB,Aakkâr,admin,,
+Hâsbaïya,33.397778,35.685,Lebanon,LB,Nabatîyé,minor,,
+Jezzîne,33.541667,35.584444,Lebanon,LB,Liban-Sud,minor,,
+Jdaidet el Matn,33.890556,35.566389,Lebanon,LB,Mont-Liban,minor,,
+Joubb Jannîne,33.626944,35.784167,Lebanon,LB,Béqaa,minor,,
+Nabatîyé,33.378692,35.483123,Lebanon,LB,Nabatîyé,admin,,
+Beït ed Dîne,33.694167,35.580833,Lebanon,LB,Mont-Liban,minor,,
+Batroûn,34.255278,35.658056,Lebanon,LB,Liban-Nord,minor,,
+Amioûn,34.3,35.808889,Lebanon,LB,Liban-Nord,minor,,
+Baalbek,34.005833,36.218056,Lebanon,LB,Baalbek-Hermel,admin,,
+Marjayoûn,33.360278,35.591111,Lebanon,LB,Nabatîyé,minor,,
+Joünié,33.980833,35.617778,Lebanon,LB,Mont-Liban,minor,,
+Bcharré,34.250833,36.010556,Lebanon,LB,Liban-Nord,minor,,
+Jbaïl,34.121111,35.648056,Lebanon,LB,Mont-Liban,minor,,
+Tripoli,34.436667,35.849722,Lebanon,LB,Liban-Nord,admin,,
+Sîr ed Danniyé,34.385278,36.031111,Lebanon,LB,Liban-Nord,minor,,
+Zghartā,34.397394,35.894928,Lebanon,LB,Liban-Nord,minor,,
+El Hermel,34.394167,36.384722,Lebanon,LB,Baalbek-Hermel,minor,,
+Bent Jbaïl,33.119444,35.433333,Lebanon,LB,Nabatîyé,minor,,
+Tyre,33.273333,35.193889,Lebanon,LB,Liban-Sud,minor,,
+Râchaïya el Ouadi,33.500886,35.843697,Lebanon,LB,Béqaa,minor,,

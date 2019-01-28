@@ -1,0 +1,43 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Niamey,13.516667,2.116667,Niger,NE,Niamey,primary,915000,742791
+Maradi,13.5,7.101744,Niger,NE,Maradi,admin,232555,163487
+Zinder,13.804869,8.988371,Niger,NE,Zinder,admin,230358,191424
+Agadez,16.973333,7.991111,Niger,NE,Agadez,,117770,88561
+Tahoua,14.8888,5.2692,Niger,NE,Tahoua,admin,115956,80425
+Arlit,18.736944,7.385278,Niger,NE,Agadez,minor,100000,80000
+Birnin Konni,13.795621,5.255298,Niger,NE,Tahoua,minor,65252,48103
+Dosso,13.049,3.1937,Niger,NE,Dosso,admin,49750,43213
+Gaya,11.884347,3.44919,Niger,NE,Dosso,minor,33051,25738
+Diffa,13.31536,12.611345,Niger,NE,Diffa,admin,30988,27948
+Ayorou,14.730746,0.917385,Niger,NE,Tillabéri,,26290,1712
+Madaoua,14.073,5.96,Niger,NE,Tahoua,minor,24804,15104
+Tillabéri,14.207113,1.454179,Niger,NE,Tillabéri,admin,19262,8362
+Nguigmi,14.249532,13.109211,Niger,NE,Diffa,minor,17897,12739
+Gouré,13.983504,10.270354,Niger,NE,Zinder,minor,14639,11944
+Djado,21.015982,12.308442,Niger,NE,Agadez,,10,10
+Illéla,14.4605,5.2437,Niger,NE,Tahoua,minor,,
+Guidan Roumdji,13.657597,6.695675,Niger,NE,Maradi,minor,,
+Tchintabaraden,15.8969,5.7985,Niger,NE,Tahoua,minor,,
+Say,13.1007,2.3689,Niger,NE,Tillabéri,minor,,
+Loga,13.6132,3.2358,Niger,NE,Dosso,minor,,
+Ouallam,14.316415,2.08597,Niger,NE,Tillabéri,minor,,
+Téra,14.007762,0.753059,Niger,NE,Tillabéri,minor,,
+Keïta,14.7551,5.7749,Niger,NE,Tahoua,minor,,
+Dogondoutchi,13.63933,4.028748,Niger,NE,Dosso,minor,,
+Magaria,12.998257,8.909913,Niger,NE,Zinder,minor,,
+Filingué,14.3521,3.3168,Niger,NE,Tillabéri,minor,,
+Abalak,15.4509,6.2793,Niger,NE,Tahoua,minor,,
+Kollo,13.3043,2.339,Niger,NE,Tillabéri,minor,,
+Tchirozérine,17.220962,7.761401,Niger,NE,Agadez,minor,,
+Mayahi,13.955323,7.671215,Niger,NE,Maradi,minor,,
+Bilma,18.685325,12.916427,Niger,NE,Agadez,minor,,
+Bouza,14.422931,6.042784,Niger,NE,Tahoua,minor,,
+Tanout,14.970886,8.887861,Niger,NE,Zinder,minor,,
+Aguié,13.506008,7.778627,Niger,NE,Maradi,minor,,
+Maïné Soroa,13.211394,12.0241,Niger,NE,Diffa,minor,,
+Birnin Gaouré,13.081729,2.910993,Niger,NE,Dosso,minor,,
+Tessaoua,13.757367,7.987405,Niger,NE,Maradi,minor,,
+Mirriah,13.707274,9.150127,Niger,NE,Zinder,minor,,
+Dakoro,14.510556,6.765,Niger,NE,Maradi,minor,,
+Madarounfa,13.308671,7.156023,Niger,NE,Maradi,minor,,
+Kantché,13.539257,8.46293,Niger,NE,Zinder,minor,,

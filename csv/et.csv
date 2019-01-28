@@ -1,0 +1,36 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Addis Ababa,9.024325,38.749226,Ethiopia,ET,Ādīs Ābeba,primary,3100000,2757729
+Nazrēt,8.55,39.266667,Ethiopia,ET,Oromīya,,476892,213995
+Dire Dawa,9.593056,41.866111,Ethiopia,ET,Dirē Dawa,admin,252279,248372
+Bahir Dar,11.6,37.383333,Ethiopia,ET,Āmara,admin,206748,168899
+Desē,11.133333,39.633333,Ethiopia,ET,Āmara,,183802,136056
+Harar,9.313866,42.118151,Ethiopia,ET,Hārerī Hizb,admin,174994,147306
+Gonder,12.6,37.466667,Ethiopia,ET,Āmara,,156230,153914
+Āwasa,7.05,38.466667,Ethiopia,ET,YeDebub Bihēroch Bihēreseboch na Hizboch,admin,133097,133097
+Jīma,7.666667,36.833333,Ethiopia,ET,Oromīya,,128306,128306
+Giyon,8.533333,37.983333,Ethiopia,ET,Oromīya,,114534,38394
+Shashemenē,7.2,38.6,Ethiopia,ET,Oromīya,,114350,85871
+Ādīgrat,14.276944,39.460833,Ethiopia,ET,Tigray,,104021,104021
+Mekele,13.496667,39.475278,Ethiopia,ET,Tigray,admin,95856,95856
+Hosa’ina,7.583333,37.883333,Ethiopia,ET,YeDebub Bihēroch Bihēreseboch na Hizboch,,89300,89300
+Āsela,7.95,39.133333,Ethiopia,ET,Oromīya,,82240,82240
+Nek’emtē,9.083333,36.55,Ethiopia,ET,Oromīya,,73018,73018
+Debre Mark’os,10.35,37.733333,Ethiopia,ET,Āmara,,70758,59920
+Ārba Minch’,6.033333,37.55,Ethiopia,ET,YeDebub Bihēroch Bihēreseboch na Hizboch,,69622,39065
+Sodo,6.9,37.75,Ethiopia,ET,YeDebub Bihēroch Bihēreseboch na Hizboch,,65737,65737
+Debre Birhan,9.679544,39.532623,Ethiopia,ET,Āmara,,65231,57787
+Jijiga,9.35,42.8,Ethiopia,ET,Sumalē,admin,56821,48194
+Āksum,14.124482,38.724442,Ethiopia,ET,Tigray,,47487,41249
+Dīla,6.416667,38.316667,Ethiopia,ET,YeDebub Bihēroch Bihēreseboch na Hizboch,,47021,47021
+Hāgere Hiywet,8.983333,37.85,Ethiopia,ET,Oromīya,,43920,34905
+Yirga ‘Alem,6.75,38.416667,Ethiopia,ET,YeDebub Bihēroch Bihēreseboch na Hizboch,,36292,36292
+Goba,7.016667,39.983333,Ethiopia,ET,Oromīya,,34369,32025
+Gīmbī,9.166667,35.833333,Ethiopia,ET,Oromīya,,31809,13038
+Āsosa,10.066667,34.533333,Ethiopia,ET,Bīnshangul Gumuz,admin,30512,17872
+Dembī Dolo,8.533333,34.8,Ethiopia,ET,Oromīya,,27780,26748
+Batī,11.191521,40.016747,Ethiopia,ET,Āmara,,19260,6393
+Dolo Bay,4.183333,42.083333,Ethiopia,ET,Sumalē,,11810,11810
+Negēlē,5.316667,39.583333,Ethiopia,ET,Oromīya,,11772,11772
+Gorē,8.15,35.533333,Ethiopia,ET,Oromīya,,9352,9352
+Semera,11.500993,41.200983,Ethiopia,ET,Āfar,admin,,
+Gambēla,8.25,34.583333,Ethiopia,ET,Gambēla Hizboch,admin,,

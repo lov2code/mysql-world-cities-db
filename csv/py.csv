@@ -1,0 +1,38 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Asunción,-25.29389,-57.611111,Paraguay,PY,Asunción,primary,1870000,11693
+San Lorenzo,-25.333333,-57.533333,Paraguay,PY,Central,,500000,271064
+Encarnación,-27.330556,-55.866667,Paraguay,PY,Itapúa,admin,357119,146508
+Ciudad del Este,-25.509722,-54.611111,Paraguay,PY,Alto Paraná,admin,320872,320872
+Pedro Juan Caballero,-22.547222,-55.733333,Paraguay,PY,Amambay,admin,102787,29271
+Coronel Oviedo,-25.444444,-56.440278,Paraguay,PY,Caaguazú,admin,88101,51286
+Concepción,-23.405556,-57.440278,Paraguay,PY,Concepción,admin,59118,48123
+Villarrica,-25.780556,-56.448611,Paraguay,PY,Guairá,admin,41157,41157
+Itá,-25.483333,-57.35,Paraguay,PY,Central,,41090,18459
+Ypacarai,-25.383333,-57.266667,Paraguay,PY,Central,,30150,17461
+Pilar,-26.863889,-58.3,Paraguay,PY,Ñeembucú,admin,28435,28435
+Caacupé,-25.386111,-57.140278,Paraguay,PY,Cordillera,admin,21696,21696
+Paraguarí,-25.620833,-57.147222,Paraguay,PY,Paraguarí,admin,18881,10079
+Bella Vista,-22.133333,-56.516667,Paraguay,PY,Amambay,,16852,5653
+Horqueta,-23.342778,-57.059722,Paraguay,PY,Concepción,,16171,10531
+Villa Hayes,-25.093056,-57.523611,Paraguay,PY,Presidente Hayes,admin,15643,15643
+Coronel Bogado,-27.183333,-56.3,Paraguay,PY,Itapúa,,14297,14297
+Belén,-23.466111,-57.261944,Paraguay,PY,Concepción,,11359,1621
+Filadelfia,-22.35,-60.033333,Paraguay,PY,Boquerón,admin,10470,8048
+San Juan Bautista,-26.669444,-57.145833,Paraguay,PY,Misiones,admin,7882,7882
+Caazapá,-26.195833,-56.368056,Paraguay,PY,Caazapá,admin,5504,5504
+Hohenau,-27.083333,-55.75,Paraguay,PY,Itapúa,,5306,5306
+Puerto Rosario,-24.45,-57.083333,Paraguay,PY,San Pedro,,5123,2155
+Puerto La Victoria,-22.333333,-57.916667,Paraguay,PY,Alto Paraguay,,5000,5000
+Arroyos y Esteros,-25.066667,-57.1,Paraguay,PY,Cordillera,,3055,2455
+Abaí,-26.033333,-55.933333,Paraguay,PY,Caazapá,,3024,2553
+Ygatimí,-24.083333,-55.5,Paraguay,PY,Canindeyú,,2809,2809
+Mariscal Estigarribia,-22.033333,-60.633333,Paraguay,PY,Boquerón,,2500,2000
+Fuerte Olimpo,-21.040278,-57.873611,Paraguay,PY,Alto Paraguay,admin,2475,2475
+Pozo Colorado,-23.466667,-58.966667,Paraguay,PY,Presidente Hayes,,2135,2135
+Ñacunday,-26.016667,-54.766667,Paraguay,PY,Alto Paraná,,1250,1120
+Capitán Pablo Lagerenza,-19.916667,-60.783333,Paraguay,PY,Alto Paraguay,,1200,1200
+Ypé Jhú,-23.9,-55.333333,Paraguay,PY,Canindeyú,,600,596
+Puerto Pinasco,-22.716667,-57.833333,Paraguay,PY,Presidente Hayes,,500,447
+Salto del Guairá,-24.0625,-54.306944,Paraguay,PY,Canindeyú,admin,,
+San Pedro de Ycuamandiyú,-24.091667,-57.076389,Paraguay,PY,San Pedro,admin,,
+Areguá,-25.3125,-57.384722,Paraguay,PY,Central,admin,,

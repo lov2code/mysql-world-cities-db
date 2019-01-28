@@ -1,0 +1,85 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Santiago,-33.45,-70.666667,Chile,CL,Región Metropolitana,primary,5720000,46611
+Concepción,-36.812969,-73.048457,Chile,CL,Biobío,admin,889725,212003
+Valparaíso,-33.046983,-71.607977,Chile,CL,Valparaíso,admin,854000,15938
+Viña del Mar,-33.016919,-71.549366,Chile,CL,Valparaíso,,503534,294551
+Antofagasta,-23.652357,-70.395402,Chile,CL,Antofagasta,admin,309832,281246
+Talcahuano,-36.724943,-73.116841,Chile,CL,Biobío,,288074,252968
+Temuco,-38.739649,-72.598416,Chile,CL,Araucanía,admin,265901,238129
+San Bernardo,-33.592175,-70.699602,Chile,CL,Región Metropolitana,,246762,241138
+Rancagua,-34.17083,-70.74444,Chile,CL,Libertador General Bernardo O’Higgins,admin,233268,212695
+Iquique,-20.220358,-70.139131,Chile,CL,Tarapacá,admin,227499,218525
+Talca,-35.426401,-71.655415,Chile,CL,Maule,admin,197479,175088
+Arica,-18.4746,-70.297923,Chile,CL,Arica y Parinacota,admin,185999,170894
+Puerto Montt,-41.465742,-72.942891,Chile,CL,Los Lagos,admin,174629,160054
+Coquimbo,-29.953317,-71.339473,Chile,CL,Coquimbo,,161317,156848
+Valdivia,-39.827598,-73.224246,Chile,CL,Los Ríos,admin,159599,133419
+La Serena,-29.904529,-71.248935,Chile,CL,Coquimbo,admin,154521,148059
+Osorno,-40.573948,-73.133478,Chile,CL,Los Lagos,,154131,135773
+Chillán,-36.610403,-72.1012,Chile,CL,Biobío,,150396,149352
+Los Ángeles,-37.469732,-72.353657,Chile,CL,Biobío,,145239,125430
+Calama,-22.456666,-68.923711,Chile,CL,Antofagasta,,143084,125589
+Copiapó,-27.366787,-70.331402,Chile,CL,Atacama,admin,129280,105353
+Punta Arenas,-53.15483,-70.911288,Chile,CL,Magallanes y de la Antártica Chilena,admin,117430,95162
+Curicó,-34.98279,-71.239426,Chile,CL,Maule,,113711,102438
+San Antonio,-33.594728,-71.607457,Chile,CL,Valparaíso,,104292,85651
+Coronel,-37.033862,-73.140193,Chile,CL,Biobío,,92940,64249
+Linares,-35.846667,-71.593079,Chile,CL,Maule,,81015,69535
+Quillota,-32.883405,-71.248818,Chile,CL,Valparaíso,,79686,67779
+Ovalle,-30.601061,-71.199014,Chile,CL,Coquimbo,,77138,68830
+San Fernando,-34.587982,-70.985257,Chile,CL,Libertador General Bernardo O’Higgins,,60746,60746
+San Felipe,-32.749761,-70.725839,Chile,CL,Valparaíso,,59294,39219
+Los Andes,-32.832969,-70.597672,Chile,CL,Valparaíso,,56859,49411
+Lota Alto,-37.078733,-73.15626,Chile,CL,Biobío,,49763,15641
+Coyhaique,-45.576352,-72.062055,Chile,CL,Aysén,admin,45787,40655
+Vallenar,-28.576173,-70.759377,Chile,CL,Atacama,,44895,30858
+Angol,-37.795194,-72.716365,Chile,CL,Araucanía,,44856,31913
+Constitución,-35.333213,-72.411561,Chile,CL,Maule,,37917,15888
+Villarrica,-39.286661,-72.228916,Chile,CL,Araucanía,,31602,2034
+Cauquenes,-35.964933,-72.325527,Chile,CL,Maule,,31362,16948
+Curanilahue,-37.477932,-73.344953,Chile,CL,Biobío,,30611,14094
+Castro,-42.477971,-73.765899,Chile,CL,Los Lagos,,29926,20443
+Ancud,-41.870699,-73.81622,Chile,CL,Los Lagos,,28020,20462
+La Ligua,-32.450736,-71.230402,Chile,CL,Valparaíso,,26665,24857
+Illapel,-31.633487,-71.169668,Chile,CL,Coquimbo,,26340,22816
+La Unión,-40.29313,-73.081669,Chile,CL,,,26298,19388
+Puerto Varas,-41.319461,-72.985378,Chile,CL,Los Lagos,,24958,14180
+Victoria,-38.23291,-72.332918,Chile,CL,Araucanía,,24555,11424
+Tocopilla,-22.09198,-70.19792,Chile,CL,Antofagasta,,24460,20251
+Lebu,-37.608246,-73.653564,Chile,CL,Biobío,,22345,10904
+Salamanca,-31.779222,-70.963892,Chile,CL,Coquimbo,,20214,13265
+Puerto Bories,-51.691501,-72.53571,Chile,CL,Magallanes y de la Antártica Chilena,,20000,786
+Nueva Imperial,-38.744513,-72.950253,Chile,CL,Araucanía,,18777,7868
+Diego de Almagro,-26.366667,-70.05,Chile,CL,Atacama,,18137,18137
+Collipulli,-37.954531,-72.434377,Chile,CL,Araucanía,,16392,6223
+Loncoche,-39.367083,-72.630867,Chile,CL,Araucanía,,15590,1717
+Río Bueno,-40.334944,-72.955641,Chile,CL,Los Ríos,,15456,10663
+Chañaral,-29.033333,-71.433333,Chile,CL,Atacama,,13543,13543
+Vicuña,-30.035412,-70.712744,Chile,CL,Coquimbo,,13496,13496
+Tierra Amarilla,-27.466332,-70.26255,Chile,CL,Atacama,,12888,8578
+Los Lagos,-39.861843,-72.81687,Chile,CL,Los Ríos,,12813,12813
+Alto Calbuco,-41.782351,-73.13945,Chile,CL,Los Lagos,,12490,1377
+Chuquicamata,-22.315807,-68.928984,Chile,CL,Antofagasta,,11941,11941
+Carahue,-38.711217,-73.161007,Chile,CL,Araucanía,,11875,5309
+Pichilemu,-34.388425,-72.000975,Chile,CL,Libertador General Bernardo O’Higgins,,11603,11603
+Pozo Almonte,-20.255848,-69.786301,Chile,CL,Tarapacá,,10830,10830
+Calderilla,-27.088858,-70.856943,Chile,CL,Atacama,,10259,10259
+Lonquimay,-38.432979,-71.235745,Chile,CL,Araucanía,,10237,6802
+Taltal,-25.408725,-70.483577,Chile,CL,Antofagasta,,10018,7877
+Puerto Aisén,-45.40303,-72.691839,Chile,CL,Aysén,,8067,8067
+Quellón,-43.11819,-73.616608,Chile,CL,Los Lagos,,7029,7029
+Quirihue,-36.281032,-72.541638,Chile,CL,Biobío,,6529,6529
+Combarbalá,-31.178627,-71.003043,Chile,CL,Coquimbo,,5134,5134
+Cochrane,-47.253693,-72.574518,Chile,CL,Aysén,,4441,4441
+Santa Bárbara,-37.66824,-72.022524,Chile,CL,Biobío,,3494,3494
+Huasco,-28.465989,-71.22276,Chile,CL,Atacama,,2558,2558
+Puerto Williams,-54.933554,-67.60963,Chile,CL,Magallanes y de la Antártica Chilena,,2500,2262
+Oficina María Elena,-22.344486,-69.661775,Chile,CL,Antofagasta,,2370,2370
+Nueva Toltén,-39.216667,-73.233333,Chile,CL,Araucanía,,2293,2293
+Mejillones,-23.100775,-70.445535,Chile,CL,Antofagasta,,2041,2041
+Chonchi,-42.620034,-73.77674,Chile,CL,Los Lagos,,381,381
+Toconao,-23.190084,-68.005285,Chile,CL,Antofagasta,,378,378
+Balsadero Río Verde,-52.650879,-71.462925,Chile,CL,Magallanes y de la Antártica Chilena,,358,358
+Villa O’Higgins,-48.466686,-72.559078,Chile,CL,Aysén,,250,100
+Cuya,-19.115219,-70.132386,Chile,CL,Arica y Parinacota,,20,20
+Lagunas,-20.981602,-69.666143,Chile,CL,Tarapacá,,10,10

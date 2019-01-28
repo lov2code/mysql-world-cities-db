@@ -1,0 +1,39 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Tripoli,32.8925,13.18,Libya,LY,Ţarābulus,primary,2189000,229398
+Benghazi,32.117664,20.129275,Libya,LY,Banghāzī,admin,1180000,582374
+Mişrātah,32.375352,15.092543,Libya,LY,Mişrātah,admin,386120,216200
+Tobruk,32.083611,23.976389,Libya,LY,Al Buţnān,admin,263527,121052
+Al Khums,32.648613,14.261909,Libya,LY,Al Marqab,admin,201943,183061
+Ḩārat az Zāwiyah,32.763056,12.715,Libya,LY,,,200000,186123
+Zuwārah,32.931203,12.081992,Libya,LY,An Nuqāţ al Khams,admin,180310,67386
+Al Marj,32.487976,20.831744,Libya,LY,Al Marj,admin,169540,85315
+Gharyān,32.172222,13.020278,Libya,LY,Al Jabal al Gharbī,admin,146810,85219
+Ajdābiyā,30.755454,20.226255,Libya,LY,Al Wāḩāt,admin,143833,134358
+Surt,31.208924,16.588661,Libya,LY,Surt,admin,128123,93390
+Darnah,32.767041,22.636686,Libya,LY,Darnah,admin,127974,78782
+Sabhā,27.037662,14.428325,Libya,LY,Sabhā,admin,100249,100249
+Nālūt,31.86848,10.981202,Libya,LY,Nālūt,admin,66609,66228
+Banī Walīd,31.756619,13.994219,Libya,LY,,,65392,46350
+Murzuq,25.904444,13.897222,Libya,LY,Murzuq,admin,55071,43732
+Birāk,27.549558,14.271385,Libya,LY,,,45421,39444
+Shaḩḩāt,32.830386,21.85005,Libya,LY,,,45000,43376
+Mizdah,31.445138,12.980131,Libya,LY,,,26107,6652
+Ghāt,24.964722,10.172778,Libya,LY,Ghāt,admin,24347,19665
+Al Jawf,24.182206,23.282771,Libya,LY,,,24132,24132
+Hūn,29.126839,15.947721,Libya,LY,Al Jufrah,admin,18878,15826
+Ghadāmis,30.133661,9.500723,Libya,LY,,,6623,6623
+Awjilah,29.108056,21.286944,Libya,LY,,,6610,6610
+Qamīnis,31.660278,20.015556,Libya,LY,,,5348,5348
+Marādah,29.233333,19.216667,Libya,LY,,,2500,2229
+Al Jaghbūb,29.742382,24.517734,Libya,LY,,,1744,1744
+Tajarhī,24.37,14.470833,Libya,LY,,,1500,1496
+Dirj,30.16502,10.458036,Libya,LY,,,931,931
+Tmassah,26.394827,15.784775,Libya,LY,,,500,200
+Umm al Aḩrār,27.516667,15.0,Libya,LY,,,300,298
+Zillah,28.544453,17.556462,Libya,LY,,,10,10
+Idrī,27.5,13.266667,Libya,LY,Wādī ash Shāţi’,admin,,
+Al Bayḑā’,32.762723,21.755063,Libya,LY,Al Jabal al Akhḑar,admin,,
+Az Zāwīyah,32.757102,12.727639,Libya,LY,Az Zāwiyah,admin,,
+Al ‘Azīzīyah,32.531944,13.0175,Libya,LY,Al Jafārah,admin,,
+Awbārī,26.592058,12.780488,Libya,LY,,admin,,
+Al Kufrah,24.166667,23.269618,Libya,LY,Al Kufrah,admin,,

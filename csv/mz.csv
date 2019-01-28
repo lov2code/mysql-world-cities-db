@@ -1,0 +1,31 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Maputo,-25.965278,32.589167,Mozambique,MZ,Maputo,primary,1446000,1191613
+Matola,-25.829167,32.457222,Mozambique,MZ,Maputo,,543907,462829
+Beira,-19.843611,34.838889,Mozambique,MZ,Sofala,admin,530604,483789
+Nampula,-15.119722,39.264722,Mozambique,MZ,Nampula,admin,388526,383845
+Chimoio,-19.116389,33.483333,Mozambique,MZ,Manica,admin,256936,228141
+Quelimane,-17.878611,36.888333,Mozambique,MZ,Zambézia,admin,188964,169101
+Tete,-16.156389,33.586667,Mozambique,MZ,Tete,admin,129316,115050
+Xai-Xai,-25.051944,33.644167,Mozambique,MZ,Gaza,admin,128805,127366
+Maxixe,-23.859722,35.347222,Mozambique,MZ,Inhambane,,119868,105895
+Inhambane,-23.865,35.383333,Mozambique,MZ,Inhambane,admin,115776,73884
+Pemba,-12.960833,40.507778,Mozambique,MZ,Cabo Delgado,admin,110643,108737
+Lichinga,-13.312778,35.240556,Mozambique,MZ,Niassa,admin,109839,78828
+Dondo,-19.609444,34.743056,Mozambique,MZ,Sofala,,78648,71787
+Cuamba,-14.844722,36.606944,Mozambique,MZ,Niassa,,73268,63141
+Montepuez,-13.125556,38.999722,Mozambique,MZ,Cabo Delgado,,72279,25803
+Mocuba,-16.840278,38.256944,Mozambique,MZ,Zambézia,,68984,68984
+Ilha de Moçambique,-15.034167,40.735833,Mozambique,MZ,Nampula,,54315,27086
+Mocímboa da Praia,-11.345833,40.352222,Mozambique,MZ,Cabo Delgado,,27909,27909
+R. Macia,-25.0125,33.103333,Mozambique,MZ,Gaza,,23156,3034
+Marrupa,-13.198889,37.499444,Mozambique,MZ,Niassa,,8762,8762
+Nicoadala,-17.608056,36.819722,Mozambique,MZ,Zambézia,,6945,6945
+Manica,-18.933332,32.877127,Mozambique,MZ,Manica,,4000,3427
+Ligonha,-15.176111,37.74,Mozambique,MZ,Nampula,,3500,3121
+Quissico,-24.720278,34.7425,Mozambique,MZ,Inhambane,,1210,1210
+Massangena,-21.537778,32.956389,Mozambique,MZ,Gaza,,650,619
+Panda,-24.063333,34.730278,Mozambique,MZ,Inhambane,,602,602
+Chiramba,-16.8925,34.655833,Mozambique,MZ,Manica,,556,556
+Espungabera,-20.451638,32.769519,Mozambique,MZ,Manica,,393,393
+Mapai,-22.843056,31.963056,Mozambique,MZ,Gaza,,201,201
+Vilankulo,-22.0,35.316667,Mozambique,MZ,Inhambane,,177,177

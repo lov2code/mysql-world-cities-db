@@ -1,0 +1,33 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Chisinau,47.005556,28.8575,Moldova,MD,Chişinău,primary,688134,635994
+Tiraspol,46.842744,29.629086,Moldova,MD,Stînga Nistrului,admin,157000,117194
+Bălţi,47.763138,27.929317,Moldova,MD,Bălţi,admin,151355,118690
+Cahul,45.904246,28.199294,Moldova,MD,Cahul,admin,63407,34492
+Dubăsari,47.265621,29.16667,Moldova,MD,Stînga Nistrului,,23254,23254
+Taraclia,45.902735,28.668159,Moldova,MD,Taraclia,admin,,
+Ştefan Vodă,46.512869,29.661934,Moldova,MD,Ştefan-Vodă,admin,,
+Donduşeni,48.239416,27.605551,Moldova,MD,Donduşeni,admin,,
+Bender,46.83156,29.477694,Moldova,MD,Bender,admin,,
+Edineţ,48.172149,27.30337,Moldova,MD,Edineţ,admin,,
+Straşeni,47.142161,28.607735,Moldova,MD,Străşeni,admin,,
+Drochia,48.035546,27.812935,Moldova,MD,Drochia,admin,,
+Basarabeasca,46.331701,28.963646,Moldova,MD,Basarabeasca,admin,,
+Ialoveni,46.943464,28.782328,Moldova,MD,Ialoveni,admin,,
+Cocieri,47.308721,29.110106,Moldova,MD,Dubăsari,admin,,
+Rîşcani,47.947925,27.563759,Moldova,MD,Rîşcani,admin,,
+Teleneşti,47.5011,28.36536,Moldova,MD,Teleneşti,admin,,
+Floreşti,47.891372,28.293123,Moldova,MD,Floreşti,admin,,
+Rezina,47.749284,28.965826,Moldova,MD,Rezina,admin,,
+Briceni,48.362892,27.077875,Moldova,MD,Briceni,admin,,
+Şoldăneşti,47.816084,28.797182,Moldova,MD,Şoldăneşti,admin,,
+Orhei,47.384936,28.824457,Moldova,MD,Orhei,admin,,
+Făleşti,47.576668,27.712644,Moldova,MD,Făleşti,admin,,
+Ocniţa,48.38274,27.438051,Moldova,MD,Ocniţa,admin,,
+Leova,46.482295,28.253014,Moldova,MD,Leova,admin,,
+Cantemir,46.277428,28.202703,Moldova,MD,Cantemir,admin,,
+Sîngerei,47.636321,28.142962,Moldova,MD,Sîngerei,admin,,
+Anenii Noi,46.878387,29.234831,Moldova,MD,Anenii Noi,admin,,
+Căuşeni,46.636744,29.411142,Moldova,MD,Căuşeni,admin,,
+Comrat,46.294555,28.656501,Moldova,MD,Găgăuzia,admin,,
+Criuleni,47.213069,29.159258,Moldova,MD,Criuleni,admin,,
+Cimişlia,46.526847,28.764414,Moldova,MD,Cimişlia,admin,,

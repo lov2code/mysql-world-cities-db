@@ -1,0 +1,119 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Rome,41.9,12.483333,Italy,IT,Lazio,primary,3339000,35452
+Milan,45.466667,9.2,Italy,IT,Lombardy,admin,2945000,1306661
+Naples,40.833333,14.25,Italy,IT,Campania,admin,2250000,988972
+Turin,45.05,7.666667,Italy,IT,Piedmont,admin,1652000,865263
+Florence,43.766667,11.25,Italy,IT,Tuscany,admin,1500000,371517
+Salerno,40.683333,14.783333,Italy,IT,Campania,minor,954265,139579
+Palermo,38.116667,13.366667,Italy,IT,Sicilia,admin,863000,672175
+Catania,37.5,15.1,Italy,IT,Sicilia,minor,674542,291274
+Genoa,44.416667,8.95,Italy,IT,Liguria,admin,647497,601951
+Bari,41.133333,16.85,Italy,IT,Puglia,admin,500577,316532
+Bologna,44.483333,11.333333,Italy,IT,Emilia-Romagna,admin,488172,371217
+Verona,45.45,11.0,Italy,IT,Veneto,minor,347459,253208
+Pescara,42.466667,14.216667,Italy,IT,Abruzzo,minor,314789,116286
+Cagliari,39.216667,9.116667,Italy,IT,Sardegna,admin,291511,164249
+Venice,45.438611,12.326667,Italy,IT,Veneto,admin,270816,270816
+Messina,38.183333,15.566667,Italy,IT,Sicilia,minor,252026,196069
+Como,45.783333,9.083333,Italy,IT,Lombardy,minor,250000,84876
+Caserta,41.066667,14.333333,Italy,IT,Campania,minor,250000,79488
+Trieste,45.648611,13.78,Italy,IT,Friuli-Venezia Giulia,admin,216035,211184
+Pisa,43.716667,10.383333,Italy,IT,Tuscany,minor,203336,89694
+Taranto,40.476111,17.229722,Italy,IT,Puglia,minor,202033,95581
+Bergamo,45.683333,9.716667,Italy,IT,Lombardy,minor,200000,121316
+Reggio di Calabria,38.1,15.65,Italy,IT,Calabria,minor,180353,177716
+Treviso,45.666667,12.245,Italy,IT,Veneto,minor,177309,80144
+Modena,44.666667,10.916667,Italy,IT,Emilia-Romagna,minor,175502,174567
+Parma,44.8,10.333333,Italy,IT,Emilia-Romagna,minor,166011,163457
+Lecce,40.383333,18.183333,Italy,IT,Puglia,minor,162582,83303
+Livorno,43.55,10.316667,Italy,IT,Tuscany,minor,156274,133759
+Foggia,41.45,15.566667,Italy,IT,Puglia,minor,155203,138853
+Perugia,43.133333,12.366667,Italy,IT,Umbria,admin,149125,134871
+Ravenna,44.4175,12.201111,Italy,IT,Emilia-Romagna,minor,134631,113974
+Ferrara,44.833333,11.583333,Italy,IT,Emilia-Romagna,minor,130992,112516
+Siracusa,37.066667,15.3,Italy,IT,Sicilia,minor,123657,122563
+Sassari,40.727222,8.560278,Italy,IT,Sardegna,minor,120729,84916
+Udine,46.061944,13.242222,Italy,IT,Friuli-Venezia Giulia,minor,119009,95030
+Barletta,41.316667,16.283333,Italy,IT,Puglia,minor,107830,92094
+Trento,46.066667,11.133333,Italy,IT,Trentino-Alto Adige,admin,107808,104946
+Brindisi,40.633333,17.933333,Italy,IT,Puglia,minor,104437,89081
+Novara,45.466667,8.633333,Italy,IT,Piedmont,minor,100910,77022
+Ancona,43.633333,13.5,Italy,IT,Marche,admin,100507,90691
+Soprabolzano,46.533333,11.4,Italy,IT,Trentino-Alto Adige,,95895,94989
+Catanzaro,38.9,16.583333,Italy,IT,Calabria,admin,95251,85831
+Arezzo,43.416667,11.883333,Italy,IT,Tuscany,minor,91589,73637
+Marsala,37.8,12.433333,Italy,IT,Sicilia,,77784,43179
+Asti,44.9,8.2,Italy,IT,Piedmont,minor,71276,55545
+Potenza,40.633333,15.8,Italy,IT,Basilicata,admin,69060,69060
+Ragusa,36.916667,14.733333,Italy,IT,Sicilia,minor,68956,65766
+L’Aquila,42.366667,13.366667,Italy,IT,Abruzzo,admin,68503,55900
+Benevento,41.133333,14.75,Italy,IT,Campania,minor,61791,56769
+Civitavecchia,42.1,11.8,Italy,IT,Lazio,,61316,50032
+Crotone,39.083333,17.133333,Italy,IT,Calabria,minor,60010,58617
+Siena,43.316667,11.35,Italy,IT,Tuscany,minor,52625,44837
+Campobasso,41.566667,14.65,Italy,IT,Molise,admin,50762,50762
+Olbia,40.916667,9.516667,Italy,IT,Sardegna,minor,45366,43316
+Aosta,45.733333,7.333333,Italy,IT,Valle d’Aosta,admin,34062,34062
+Vibo Valentia,38.666667,16.1,Italy,IT,Calabria,minor,33957,30379
+Padova,45.416667,11.883333,Italy,IT,Veneto,minor,,
+Savona,44.283333,8.5,Italy,IT,Liguria,minor,,
+Caltanissetta,37.483333,14.066667,Italy,IT,Sicilia,minor,,
+Vicenza,45.55,11.55,Italy,IT,Veneto,minor,,
+Gorizia,45.945,13.597778,Italy,IT,Friuli-Venezia Giulia,minor,,
+Rieti,42.4,12.85,Italy,IT,Lazio,minor,,
+Grosseto,42.766667,11.133333,Italy,IT,Tuscany,minor,,
+Bolzano,46.516667,11.366667,Italy,IT,Trentino-Alto Adige,minor,,
+Massa,44.016667,10.15,Italy,IT,Tuscany,minor,,
+Sanluri,39.561111,8.899444,Italy,IT,Sardegna,minor,,
+Latina,41.466667,12.866667,Italy,IT,Lazio,minor,,
+Vercelli,45.316667,8.416667,Italy,IT,Piedmont,minor,,
+Belluno,46.145,12.221389,Italy,IT,Veneto,minor,,
+Cremona,45.116667,10.033333,Italy,IT,Lombardy,minor,,
+Oristano,39.903056,8.591944,Italy,IT,Sardegna,minor,,
+Mantova,45.15,10.8,Italy,IT,Lombardy,minor,,
+Prato,43.883333,11.1,Italy,IT,Tuscany,minor,,
+Enna,37.566667,14.266667,Italy,IT,Sicilia,minor,,
+Lucca,43.833333,10.483333,Italy,IT,Tuscany,minor,,
+Viterbo,42.416667,12.1,Italy,IT,Lazio,minor,,
+Villacidro,39.457778,8.740556,Italy,IT,Sardegna,minor,,
+Trani,41.283333,16.416667,Italy,IT,Puglia,minor,,
+Pavia,45.166667,9.166667,Italy,IT,Lombardy,minor,,
+Piacenza,45.016667,9.666667,Italy,IT,Emilia-Romagna,minor,,
+Monza,45.583333,9.266667,Italy,IT,Lombardy,minor,,
+Verbania,45.93333,8.533333,Italy,IT,Piedmont,minor,,
+Rimini,44.063333,12.580833,Italy,IT,Emilia-Romagna,minor,,
+Andria,41.216667,16.283333,Italy,IT,Puglia,minor,,
+Fermo,43.15,13.716667,Italy,IT,Marche,minor,,
+Nuoro,40.316667,9.35,Italy,IT,Sardegna,minor,,
+Alessandria,44.9,8.616667,Italy,IT,Piedmont,minor,,
+Matera,40.666667,16.6,Italy,IT,Basilicata,minor,,
+Pistoia,43.916667,10.9,Italy,IT,Tuscany,minor,,
+Reggio Emilia,44.716667,10.6,Italy,IT,Emilia-Romagna,minor,,
+Frosinone,41.633333,13.316667,Italy,IT,Lazio,minor,,
+Imperia,43.883333,8.05,Italy,IT,Liguria,minor,,
+Tortolì,39.925556,9.657222,Italy,IT,Sardegna,minor,,
+Iglesias,39.311389,8.535,Italy,IT,Sardegna,minor,,
+Tempio Pausania,40.9,9.1,Italy,IT,Sardegna,minor,,
+Trapani,38.016667,12.483333,Italy,IT,Sicilia,minor,,
+Rovigo,45.066667,11.783333,Italy,IT,Veneto,minor,,
+Teramo,42.65,13.7,Italy,IT,Abruzzo,minor,,
+Sondrio,46.166667,9.866667,Italy,IT,Lombardy,minor,,
+Lanusei,39.875833,9.541667,Italy,IT,Sardegna,minor,,
+Biella,45.566667,8.05,Italy,IT,Piedmont,minor,,
+Cosenza,39.3,16.25,Italy,IT,Calabria,minor,,
+Cuneo,44.383333,7.533333,Italy,IT,Piedmont,minor,,
+Ascoli Piceno,42.85,13.566667,Italy,IT,Marche,minor,,
+Avellino,40.9,14.783333,Italy,IT,Campania,minor,,
+Chieti,42.35,14.166667,Italy,IT,Abruzzo,minor,,
+Terni,42.566667,12.616667,Italy,IT,Umbria,minor,,
+Varese,45.8,8.833333,Italy,IT,Lombardy,minor,,
+Forlì,44.223611,12.052778,Italy,IT,Emilia-Romagna,minor,,
+Lecco,45.85,9.383333,Italy,IT,Lombardy,minor,,
+Carbonia,39.167222,8.522222,Italy,IT,Sardegna,minor,,
+Macerata,43.3,13.45,Italy,IT,Marche,minor,,
+La Spezia,44.116667,9.833333,Italy,IT,Liguria,minor,,
+Pesaro,43.9,12.916667,Italy,IT,Marche,minor,,
+Pordenone,45.963889,12.6575,Italy,IT,Friuli-Venezia Giulia,minor,,
+Lodi,45.316667,9.5,Italy,IT,Lombardy,minor,,
+Brescia,45.55,10.25,Italy,IT,Lombardy,minor,,
+Agrigento,37.316667,13.566667,Italy,IT,Sicilia,minor,,

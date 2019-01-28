@@ -1,0 +1,42 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Guayaquil,-2.205842,-79.907948,Ecuador,EC,Guayas,admin,2514000,1952029
+Quito,-0.194568,-78.493005,Ecuador,EC,Pichincha,primary,1701000,1399814
+Cuenca,-2.900545,-79.004527,Ecuador,EC,Azuay,admin,286878,276964
+Ambato,-1.252369,-78.622781,Ecuador,EC,Tungurahua,admin,281425,154369
+Portoviejo,-1.054579,-80.454448,Ecuador,EC,Manabí,admin,213601,170326
+Machala,-3.258608,-79.960535,Ecuador,EC,El Oro,admin,213034,198123
+Manta,-0.962116,-80.712709,Ecuador,EC,Manabí,,183166,170716
+Sangolquí,-0.327637,-78.444274,Ecuador,EC,Pichincha,,178582,5114
+Esmeraldas,0.969112,-79.652018,Ecuador,EC,Esmeraldas,admin,173101,95630
+Riobamba,-1.670984,-78.647124,Ecuador,EC,Chimborazo,admin,172464,124478
+Ibarra,0.35171,-78.122333,Ecuador,EC,Imbabura,admin,146741,108666
+Loja,-4.005579,-79.202235,Ecuador,EC,Loja,admin,126368,117796
+Milagro,-2.134037,-79.594146,Ecuador,EC,Guayas,,109970,897
+Latacunga,-0.935206,-78.615545,Ecuador,EC,Cotopaxi,admin,94972,51717
+Tulcán,0.811871,-77.717271,Ecuador,EC,Carchi,admin,83000,83000
+Babahoyo,-1.802166,-79.534429,Ecuador,EC,Los Ríos,admin,76279,43467
+Azogues,-2.739694,-78.848602,Ecuador,EC,Cañar,admin,69087,34877
+Chone,-0.698187,-80.093612,Ecuador,EC,Manabí,,44751,36007
+Salinas,-2.207383,-80.970258,Ecuador,EC,Guayas,,43862,5371
+Jipijapa,-1.348716,-80.578746,Ecuador,EC,Manabí,,35901,21581
+Tena,-0.993799,-77.812856,Ecuador,EC,Napo,admin,31126,17172
+Cayambe,0.040841,-78.14524,Ecuador,EC,Pichincha,,27881,26582
+Guaranda,-1.592628,-79.000978,Ecuador,EC,Bolívar,admin,27866,20000
+Puyo,-1.483687,-78.002573,Ecuador,EC,Pastaza,admin,24881,24881
+Macas,-2.308683,-78.111346,Ecuador,EC,Morona-Santiago,admin,23687,17601
+San Lorenzo de Esmeraldas,1.286257,-78.835145,Ecuador,EC,Esmeraldas,,20209,20209
+Piñas,-3.681067,-79.680827,Ecuador,EC,El Oro,,16981,16981
+San Gabriel,0.593179,-77.830775,Ecuador,EC,Carchi,,16066,15112
+Zamora,-4.066852,-78.954881,Ecuador,EC,Zamora-Chinchipe,admin,15276,7887
+Alausí,-2.203286,-78.847141,Ecuador,EC,Chimborazo,,14294,14294
+Muisne,0.611289,-80.018627,Ecuador,EC,Esmeraldas,,13393,3112
+Macará,-4.38181,-79.943701,Ecuador,EC,Loja,,13035,10461
+Valdez,1.249167,-78.983056,Ecuador,EC,Esmeraldas,,11441,2530
+Santa Cruz,-0.527547,-90.252889,Ecuador,EC,Galápagos,,11262,5033
+Puerto Baquerizo Moreno,-0.923217,-89.604739,Ecuador,EC,Galápagos,admin,6030,4214
+Puerto Villamil,-0.956699,-90.965172,Ecuador,EC,Galápagos,,2200,1800
+Yaupi,-2.854441,-77.935997,Ecuador,EC,Morona-Santiago,,293,293
+Santa Elena,-2.226222,-80.858725,Ecuador,EC,Santa Elena,admin,,
+Santo Domingo de los Colorados,-0.253047,-79.175356,Ecuador,EC,Santo Domingo de los Tsáchilas,admin,,
+Puerto Francisco de Orellana,-0.466446,-76.98719,Ecuador,EC,Orellana,admin,,
+Nueva Loja,0.090573,-76.888366,Ecuador,EC,Sucumbíos,admin,,

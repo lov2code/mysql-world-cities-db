@@ -1,0 +1,90 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Lima,-12.05,-77.05,Peru,PE,Lima,primary,8012000,6758234
+Callao,-12.056585,-77.118144,Peru,PE,Callao,admin,876877,695586
+Arequipa,-16.398889,-71.535,Peru,PE,Arequipa,admin,815000,736570
+Trujillo,-8.111944,-79.025556,Peru,PE,La Libertad,admin,765171,276921
+Chilape,-6.729548,-79.835302,Peru,PE,Lambayeque,,596792,577375
+Iquitos,-3.749125,-73.253828,Peru,PE,Loreto,admin,458729,437620
+Huancayo,-12.065133,-75.204861,Peru,PE,Junín,admin,412733,376657
+Piura,-5.194491,-80.632821,Peru,PE,Piura,admin,396932,325466
+Cusco,-13.522643,-71.967344,Peru,PE,Cusco,admin,361182,312140
+Chimbote,-9.067752,-78.591522,Peru,PE,Ancash,,349846,316966
+Pucallpa,-8.385512,-74.539073,Peru,PE,Ucayali,admin,310750,299084
+Tacna,-18.005556,-70.248333,Peru,PE,Tacna,,280098,241987
+Ica,-14.067768,-75.728611,Peru,PE,Ica,admin,279420,246844
+Juliaca,-15.48972,-70.130418,Peru,PE,Puno,,245675,223181
+Ayacucho,-13.10546,-74.196769,Peru,PE,Ayacucho,,166314,140033
+Sullana,-4.900721,-80.68642,Peru,PE,Piura,,160789,68204
+Huánuco,-9.930617,-76.242228,Peru,PE,Huánuco,admin,158145,147959
+Chincha Alta,-13.412831,-76.129898,Peru,PE,Ica,,153076,124140
+Cajamarca,-7.163672,-78.509958,Peru,PE,Cajamarca,admin,142665,135000
+Cerro de Pasco,-10.667478,-76.256679,Peru,PE,Pasco,admin,137232,78910
+Puno,-15.842202,-70.019899,Peru,PE,Puno,admin,116552,106148
+Tumbes,-3.56694,-80.45153,Peru,PE,Tumbes,admin,109223,102343
+Talara,-4.577186,-81.269075,Peru,PE,Piura,,99074,50447
+Chosica,-11.931596,-76.693444,Peru,PE,Lima,,88606,539
+Huaraz,-9.527787,-77.527776,Peru,PE,Ancash,admin,86934,63039
+Pisco,-13.707041,-76.200448,Peru,PE,Ica,,81207,61869
+Huacho,-11.106667,-77.605,Peru,PE,Lima,,80474,54545
+Chulucanas,-5.097238,-80.164861,Peru,PE,Piura,,68835,52035
+Puerto Maldonado,-12.59331,-69.189128,Peru,PE,Madre de Dios,admin,67155,37543
+Paita,-5.088485,-81.115501,Peru,PE,Piura,,56151,39632
+Abancay,-13.633889,-72.881389,Peru,PE,Apurímac,admin,55111,52851
+Moquegua,-17.198321,-70.935668,Peru,PE,Moquegua,admin,54517,22703
+Ilo,-17.64013,-71.339476,Peru,PE,Moquegua,,53476,52908
+Tingo María,-9.299724,-76.000385,Peru,PE,Huánuco,,53177,19100
+Jaén,-5.709079,-78.80748,Peru,PE,Cajamarca,,52493,45849
+Tarma,-11.417007,-75.686686,Peru,PE,Junín,,51350,462
+Ferreñafe,-6.635261,-79.788127,Peru,PE,Lambayeque,,50184,34357
+Mollendo,-17.019568,-72.013625,Peru,PE,Arequipa,,49033,28953
+Moyobamba,-6.034159,-76.971678,Peru,PE,San Martín,admin,47734,44276
+Huancavelica,-12.782612,-74.972661,Peru,PE,Huancavelica,admin,44388,41576
+Hualmay,-11.095836,-77.613891,Peru,PE,Lima,,40400,20723
+Pacasmayo,-7.403017,-79.567645,Peru,PE,La Libertad,,39282,29165
+Juanjuí,-7.176973,-76.727736,Peru,PE,San Martín,,37715,16990
+Sicuani,-14.271052,-71.22699,Peru,PE,Cusco,,33575,8274
+Forbe Oroya,-11.520224,-75.899886,Peru,PE,Junín,,33345,33345
+Pativilca,-10.694702,-77.774716,Peru,PE,Lima,,31905,13583
+Huamachuco,-7.813066,-78.047125,Peru,PE,La Libertad,,30835,21768
+Casma,-9.473869,-78.298198,Peru,PE,Ancash,,30000,24842
+Tocache Viejo,-8.190531,-76.553345,Peru,PE,San Martín,,29029,2616
+Chancay,-11.560166,-77.267067,Peru,PE,Lima,,26958,10244
+Chachapoyas,-6.230554,-77.870825,Peru,PE,Amazonas,,25978,20279
+Nazca,-14.824471,-74.935626,Peru,PE,Ica,,23556,23218
+Sechura,-5.552961,-80.820815,Peru,PE,Piura,,23020,8602
+Jauja,-11.777101,-75.497017,Peru,PE,Junín,,21057,21057
+Camaná,-16.623752,-72.710551,Peru,PE,Arequipa,,20956,16434
+Ayaviri,-14.879024,-70.589117,Peru,PE,Puno,,19310,5739
+Contamana,-7.348661,-75.009765,Peru,PE,Loreto,minor,18921,13885
+Huantachaca,-12.944421,-74.236793,Peru,PE,Ayacucho,,18627,12442
+Requena,-5.05857,-73.851172,Peru,PE,Loreto,,18000,16195
+Huarmey,-10.066804,-78.150203,Peru,PE,Ancash,,16172,2196
+Ilave,-16.085633,-69.638811,Peru,PE,Puno,,16033,16033
+Puerto Pimentel,-6.832355,-79.933097,Peru,PE,Lambayeque,,15552,13293
+Satipo,-11.253874,-74.638323,Peru,PE,Junín,,15532,15532
+Junín,-11.158946,-75.993039,Peru,PE,Junín,,15320,7670
+San Jacinto,-11.134487,-75.382732,Peru,PE,Junín,,14708,6490
+Chota,-6.561562,-78.649304,Peru,PE,Cajamarca,,14240,12664
+Lamas,-6.42054,-76.516724,Peru,PE,San Martín,,13693,12503
+Motupe,-6.152682,-79.715136,Peru,PE,Lambayeque,,13681,4415
+Cajabamba,-7.622359,-78.033491,Peru,PE,Cajamarca,,13486,10587
+Chilca,-12.51208,-76.734715,Peru,PE,Lima,,12884,228
+Puquio,-14.691438,-74.123189,Peru,PE,Ayacucho,,10491,7564
+Santiago,-14.184693,-75.711235,Peru,PE,Ica,,10449,10449
+Otuzco,-7.905184,-78.563012,Peru,PE,La Libertad,,10134,7375
+Salaverry,-8.216117,-78.975022,Peru,PE,La Libertad,,10066,4390
+Olmos,-5.989161,-79.746649,Peru,PE,Lambayeque,,9800,5359
+Putina,-15.476395,-69.432922,Peru,PE,Puno,,8118,8118
+Urubamba,-13.305696,-72.116109,Peru,PE,Cusco,,7540,4430
+Coracora,-15.013357,-73.779775,Peru,PE,Ayacucho,,7420,5447
+Desaguadero,-16.564447,-69.041387,Peru,PE,Puno,,5329,4911
+Santo Tomás,-14.450534,-72.081933,Peru,PE,Cusco,,4134,3257
+Caballococha,-3.910166,-70.515773,Peru,PE,Loreto,,3195,3195
+Tarapoto,-6.491659,-76.362943,Peru,PE,San Martín,,936,936
+Tournavista,-8.933098,-74.703483,Peru,PE,Huánuco,,511,511
+Güeppí,-0.117222,-75.2491,Peru,PE,Loreto,,10,10
+Soldado Bartra,-2.525312,-75.734356,Peru,PE,Loreto,,10,10
+Andoas,-2.905242,-76.400128,Peru,PE,Loreto,,10,10
+Puca Urco,-2.327868,-71.920137,Peru,PE,Loreto,,10,10
+Ayacucho,-13.158782,-74.22321,Peru,PE,Ayacucho,admin,,
+Chiclayo,-6.771372,-79.840876,Peru,PE,Lambayeque,admin,,

@@ -1,0 +1,67 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Santa Cruz,-17.783296,-63.182117,Bolivia,BO,Santa Cruz,,2102998,1616063
+La Paz,-16.5,-68.15,Bolivia,BO,La Paz,primary,1590000,812799
+Cochabamba,-17.389498,-66.156797,Bolivia,BO,Cochabamba,admin,1000000,608276
+Oruro,-17.983333,-67.15,Bolivia,BO,Oruro,admin,246501,208684
+Quillacollo,-17.392277,-66.27838,Bolivia,BO,Cochabamba,,227052,227052
+Sucre,-19.047646,-65.259058,Bolivia,BO,Chuquisaca,primary,224838,221736
+Potosí,-19.583611,-65.753056,Bolivia,BO,Potosí,admin,179901,141251
+Tarija,-21.525701,-64.728052,Bolivia,BO,Tarija,admin,159269,151757
+Montero,-17.338662,-63.2505,Bolivia,BO,Santa Cruz,,88616,79026
+Trinidad,-14.833333,-64.9,Bolivia,BO,El Beni,admin,84259,54408
+Riberalta,-11.006545,-66.063119,Bolivia,BO,El Beni,,74014,74014
+Cobija,-11.018556,-68.757015,Bolivia,BO,Pando,admin,44437,26585
+Villazón,-22.088036,-65.59553,Bolivia,BO,Potosí,,37215,30253
+Bermejo,-22.732056,-64.337244,Bolivia,BO,Tarija,,36544,36544
+Guayaramerín,-10.8,-65.383333,Bolivia,BO,El Beni,,36008,36008
+Viacha,-16.65,-68.3,Bolivia,BO,La Paz,,34776,34776
+Tupiza,-21.443445,-65.718751,Bolivia,BO,Potosí,,28766,22233
+Llallagua,-18.424259,-66.58388,Bolivia,BO,Potosí,,28069,28069
+Camiri,-20.038489,-63.51833,Bolivia,BO,Santa Cruz,,27961,10464
+Punata,-17.542344,-65.834723,Bolivia,BO,Cochabamba,,26323,15194
+San Ignacio de Velasco,-16.366667,-60.95,Bolivia,BO,Santa Cruz,,25391,23569
+Puerto Suárez,-18.95,-57.8,Bolivia,BO,Santa Cruz,,22000,12546
+San Borja,-14.816667,-66.85,Bolivia,BO,El Beni,,19640,19640
+Villamontes,-21.262355,-63.469027,Bolivia,BO,Tarija,,18761,18761
+Cliza,-17.587771,-65.932534,Bolivia,BO,Cochabamba,,15816,8654
+Ascensión,-15.7,-63.083333,Bolivia,BO,Santa Cruz,,14429,9741
+Uyuni,-20.466667,-66.833333,Bolivia,BO,Potosí,,12939,10293
+Rurrenabaque,-14.466667,-67.566667,Bolivia,BO,El Beni,,11749,11749
+Portachuelo,-17.351676,-63.392824,Bolivia,BO,Santa Cruz,,11485,8479
+Puerto Quijarro,-17.783333,-57.766667,Bolivia,BO,Santa Cruz,,10392,10392
+Roboré,-18.333333,-59.75,Bolivia,BO,Santa Cruz,,10036,9882
+Challapata,-18.902082,-66.770484,Bolivia,BO,Oruro,,9114,8016
+Avichaca,-16.05,-68.65,Bolivia,BO,La Paz,,8447,8447
+Vallegrande,-18.489231,-64.106092,Bolivia,BO,Santa Cruz,,8422,5293
+Aiquile,-18.201284,-65.180128,Bolivia,BO,Cochabamba,,8224,3464
+Reyes,-14.316667,-67.383333,Bolivia,BO,El Beni,,7376,7376
+San Ramón,-13.283333,-64.716667,Bolivia,BO,El Beni,,6490,4389
+San Carlos,-17.4,-63.75,Bolivia,BO,Santa Cruz,,6353,4180
+San Matías,-16.366667,-58.4,Bolivia,BO,Santa Cruz,,6352,6352
+Betanzos,-19.552926,-65.453952,Bolivia,BO,Potosí,,4847,4412
+Uncia,-18.467184,-66.570102,Bolivia,BO,Potosí,,4723,4723
+Camargo,-20.640607,-65.210524,Bolivia,BO,Chuquisaca,,4715,4715
+San Javier,-16.270244,-62.503226,Bolivia,BO,Santa Cruz,,4210,4210
+Apolo,-14.716667,-68.416667,Bolivia,BO,La Paz,,4189,4189
+Quime,-17.033333,-67.25,Bolivia,BO,La Paz,,4045,2404
+Charagua,-19.791507,-63.198639,Bolivia,BO,Santa Cruz,,3025,3025
+San Lorenzo,-21.417393,-64.749489,Bolivia,BO,Tarija,,3000,3000
+Samaipata,-18.180055,-63.875523,Bolivia,BO,Santa Cruz,,2926,2926
+Padilla,-19.306268,-64.302379,Bolivia,BO,Chuquisaca,,2920,1633
+Entre Ríos,-21.526954,-64.172757,Bolivia,BO,Tarija,,2685,2685
+Tarabuco,-19.180284,-64.917558,Bolivia,BO,Chuquisaca,,2428,2300
+Baures,-13.583333,-63.583333,Bolivia,BO,El Beni,,2422,2422
+Coroico,-16.183333,-67.733333,Bolivia,BO,La Paz,,2361,2361
+Sorata,-15.766667,-68.633333,Bolivia,BO,La Paz,,2190,2190
+Corocoro,-17.166667,-68.45,Bolivia,BO,La Paz,,1884,1884
+Puerto Villarroel,-16.847373,-64.781685,Bolivia,BO,Cochabamba,,1778,1778
+San Rafael,-16.75,-60.566667,Bolivia,BO,Santa Cruz,,1201,1201
+Puerto Acosta,-15.533333,-69.25,Bolivia,BO,La Paz,,1123,1123
+Sicasica,-17.333333,-67.733333,Bolivia,BO,La Paz,,1006,1006
+Cuevo,-20.452512,-63.51818,Bolivia,BO,Santa Cruz,,953,953
+Sabaya,-19.01577,-68.372044,Bolivia,BO,Oruro,,573,573
+Llica,-19.850656,-68.248474,Bolivia,BO,Potosí,,553,553
+Charaña,-17.6,-69.466667,Bolivia,BO,La Paz,,197,197
+Piso Firme,-13.661786,-61.835695,Bolivia,BO,El Beni,,72,72
+Puerto Heath,-12.503332,-68.64995,Bolivia,BO,La Paz,,10,10
+Santa Cruz de la Sierra,-17.8,-63.166667,Bolivia,BO,Santa Cruz,admin,,

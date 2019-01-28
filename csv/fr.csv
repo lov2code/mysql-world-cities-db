@@ -1,0 +1,59 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Paris,48.866667,2.333333,France,FR,Île-de-France,primary,9904000,11177
+Lyon,45.748457,4.846711,France,FR,Auvergne-Rhône-Alpes,admin,1423000,472317
+Marseille,43.285413,5.37606,France,FR,Provence-Alpes-Côte d’Azur,admin,1400000,794811
+Lille,50.632971,3.058585,France,FR,Hauts-de-France,admin,1044000,228328
+Nice,43.713644,7.25952,France,FR,Provence-Alpes-Côte d’Azur,,927000,338620
+Toulouse,43.599516,1.433188,France,FR,Occitanie,admin,847000,433055
+Bordeaux,44.840439,-0.5805,France,FR,Nouvelle-Aquitaine,admin,803000,231844
+Rouen,49.433333,1.083333,France,FR,Normandie,admin,532559,110276
+Strasbourg,48.600381,7.787355,France,FR,Grand Est,admin,439972,274845
+Nantes,47.216509,-1.552379,France,FR,Pays de la Loire,admin,438537,277269
+Metz,49.115461,6.175875,France,FR,Grand Est,minor,409186,123914
+Grenoble,45.171546,5.722387,France,FR,Auvergne-Rhône-Alpes,,388574,158552
+Toulon,43.117705,5.941712,France,FR,Provence-Alpes-Côte d’Azur,,357693,168701
+Montpellier,43.61092,3.87723,France,FR,Occitanie,minor,327254,248252
+Nancy,48.69211,6.187756,France,FR,Grand Est,,268976,105334
+Saint-Étienne,45.435382,4.391051,France,FR,Auvergne-Rhône-Alpes,,265684,176280
+Melun,48.545699,2.653562,France,FR,Île-de-France,,249432,38953
+Le Havre,49.5,0.133333,France,FR,Normandie,,242124,185972
+Tours,47.394836,0.703977,France,FR,Centre-Val de Loire,,236096,141621
+Clermont-Ferrand,45.779657,3.086281,France,FR,Auvergne-Rhône-Alpes,minor,233050,138681
+Orléans,47.902891,1.903887,France,FR,Centre-Val de Loire,admin,217301,124149
+Mulhouse,47.738082,7.347932,France,FR,Grand Est,,215454,111430
+Rennes,48.111981,-1.674291,France,FR,Bretagne,admin,209375,199284
+Reims,49.25,4.033333,France,FR,Grand Est,,196565,159313
+Caen,49.197188,-0.326822,France,FR,Normandie,minor,190099,110624
+Angers,47.473806,-0.54774,France,FR,Pays de la Loire,,188380,168279
+Dijon,47.316667,5.016667,France,FR,Bourgogne-Franche-Comté,admin,169946,149782
+Nîmes,43.833778,4.359623,France,FR,Occitanie,,169547,148236
+Limoges,45.831534,1.257805,France,FR,Nouvelle-Aquitaine,minor,152199,141176
+Aix-en-Provence,43.528695,5.448791,France,FR,Provence-Alpes-Côte d’Azur,,146821,143797
+Perpignan,42.696172,2.897098,France,FR,Occitanie,,146620,110706
+Biarritz,43.480119,-1.555581,France,FR,Nouvelle-Aquitaine,,145348,33188
+Brest,48.390756,-4.486165,France,FR,Bretagne,,144899,140929
+Le Mans,48.000386,0.204709,France,FR,Pays de la Loire,,144515,142270
+Amiens,49.9,2.3,France,FR,Hauts-de-France,minor,143086,94731
+Besançon,47.248778,6.018152,France,FR,Bourgogne-Franche-Comté,minor,128426,119960
+Annecy,45.906206,6.126699,France,FR,Auvergne-Rhône-Alpes,,105749,49232
+Calais,50.951241,1.85899,France,FR,Hauts-de-France,,92201,74433
+Poitiers,46.583333,0.333333,France,FR,Nouvelle-Aquitaine,minor,85960,84807
+Versailles,48.803593,2.134236,France,FR,Île-de-France,,85416,85416
+Kerbrient,47.730294,-3.410806,France,FR,Bretagne,,84952,58112
+Béziers,43.345287,3.222374,France,FR,Occitanie,,81438,74081
+La Rochelle,46.166667,-1.15,France,FR,Nouvelle-Aquitaine,,76997,76810
+Roanne,46.043291,4.068553,France,FR,Auvergne-Rhône-Alpes,,73315,39840
+Bourges,47.083333,2.4,France,FR,Centre-Val de Loire,,72340,67987
+Arras,50.291799,2.780306,France,FR,Hauts-de-France,,64165,47052
+Troyes,48.300727,4.085244,France,FR,Grand Est,,61703,60785
+Cherbourg,49.639971,-1.615505,France,FR,Normandie,,60991,60991
+Agen,44.199912,0.626641,France,FR,Nouvelle-Aquitaine,,58223,34367
+Tarbes,43.233334,0.083333,France,FR,Occitanie,,54854,52106
+Ajaccio,41.927226,8.734619,France,FR,Corsica,admin,54364,39446
+Saint-Brieuc,48.510504,-2.765927,France,FR,Bretagne,,53223,52774
+Nevers,46.991203,3.157084,France,FR,Bourgogne-Franche-Comté,,45929,43988
+Vichy,46.128264,3.423472,France,FR,Auvergne-Rhône-Alpes,,43158,27019
+Dieppe,49.920403,1.086542,France,FR,Normandie,,42461,35707
+Auxerre,47.7996,3.57033,France,FR,Bourgogne-Franche-Comté,,41516,34552
+Bastia,42.702778,9.45,France,FR,Corsica,,41001,40116
+Châlons-en-Champagne,48.953926,4.367238,France,FR,Grand Est,minor,,
